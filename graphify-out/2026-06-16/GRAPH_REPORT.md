@@ -1,16 +1,16 @@
 # Graph Report - TourUP_proyect  (2026-06-16)
 
 ## Corpus Check
-- 60 files · ~8,589 words
+- 62 files · ~8,785 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 301 nodes · 282 edges · 37 communities (31 shown, 6 thin omitted)
+- 311 nodes · 290 edges · 41 communities (34 shown, 7 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `96d8ad7b`
+- Built from commit: `1631857c`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -51,6 +51,10 @@
 - [[_COMMUNITY_Community 34|Community 34]]
 - [[_COMMUNITY_Community 35|Community 35]]
 - [[_COMMUNITY_Community 36|Community 36]]
+- [[_COMMUNITY_Community 37|Community 37]]
+- [[_COMMUNITY_Community 38|Community 38]]
+- [[_COMMUNITY_Community 39|Community 39]]
+- [[_COMMUNITY_Community 40|Community 40]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `🗺️ TourUP_proyect` - 11 edges
@@ -79,27 +83,27 @@
 ## Import Cycles
 - None detected.
 
-## Communities (37 total, 6 thin omitted)
+## Communities (41 total, 7 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.10
-Nodes (17): Salas — Complejo Arqueológico Chan Chan – Museo de Sitio, Accesibilidad, Complejo Arqueológico Chan Chan – Museo de Sitio, Informacion general, Notas, Precios, Salas, Accesibilidad (+9 more)
+Cohesion: 0.20
+Nodes (8): Accesibilidad, Huacas de Moche – Museo de Sitio Huaca de la Luna, Informacion general, Notas, Precios, Salas, Salas / Areas, Salas - Huacas de Moche – Museo de Sitio Huaca de la Luna
 
 ### Community 1 - "Community 1"
 Cohesion: 0.11
 Nodes (16): 📍 Lambayeque, Listado, Salas — Museo de Sitio Huaca Rajada – Sipán, Accesibilidad, Informacion general, Museo de Sitio Huaca Rajada – Sipán, Notas, Precios (+8 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.07
-Nodes (22): 📍 Ayacucho, Listado, 📍 Lima Barranca, Listado, Accesibilidad, Informacion general, Museo de Sitio de Quinua, Notas (+14 more)
+Cohesion: 0.10
+Nodes (16): 📍 Ayacucho, Listado, 📍 Ica, Listado, 📍 La Libertad, Listado, 📍 Lima Barranca, Listado (+8 more)
 
 ### Community 3 - "Community 3"
 Cohesion: 0.17
 Nodes (10): Accesibilidad, Ciudad Sagrada de Caral, Informacion general, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
 
 ### Community 4 - "Community 4"
-Cohesion: 0.11
-Nodes (16): Salas — Complejo Arqueológico Mateo Salado, Accesibilidad, Complejo Arqueológico Mateo Salado, Informacion general, Notas, Precios, Salas, 📍 Lima (+8 more)
+Cohesion: 0.25
+Nodes (7): Salas — Complejo Arqueológico Mateo Salado, Accesibilidad, Complejo Arqueológico Mateo Salado, Informacion general, Notas, Precios, Salas
 
 ### Community 5 - "Community 5"
 Cohesion: 0.17
@@ -110,8 +114,8 @@ Cohesion: 0.22
 Nodes (8): 📍 Ayacucho- [[Museo de Sitio de Quinua]], 📍 Ica- [[Museo de Sitio Julio C. Tello – Paracas]], 📍 La Libertad- [[Complejo Arqueológico Chan Chan – Museo de Sitio]]- [[Huacas de Moche – Museo de Sitio Huaca de la Luna]], 📍 Lambayeque- [[Museo Tumbas Reales de Sipán]]- [[Museo de Sitio Huaca Rajada – Sipán]], 📍 Lima Barranca- [[Ciudad Sagrada de Caral]], 📍 Lima- [[Museo de Sitio Pachacamac]]- [[Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)]]- [[Museo Nacional de la Cultura Peruana (MNCP)]]- [[Museo de Arte Italiano]]- [[Zona Arqueológica Monumental Huaycán de Cieneguilla]]- [[Complejo Arqueológico Mateo Salado]], 🗺️ Museos Accesibles del Perú, Por región
 
 ### Community 7 - "Community 7"
-Cohesion: 0.15
-Nodes (10): 📍 Ica, Listado, Accesibilidad, Informacion general, Museo de Sitio Julio C. Tello – Paracas, Notas, Precios, Salas (+2 more)
+Cohesion: 0.20
+Nodes (8): Accesibilidad, Informacion general, Museo de Sitio Julio C. Tello – Paracas, Notas, Precios, Salas, Salas / Areas, Salas - Museo de Sitio Julio C. Tello – Paracas
 
 ### Community 8 - "Community 8"
 Cohesion: 0.17
@@ -122,8 +126,8 @@ Cohesion: 0.25
 Nodes (7): Salas — Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP), Accesibilidad, Informacion general, Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP), Notas, Precios, Salas
 
 ### Community 10 - "Community 10"
-Cohesion: 0.17
-Nodes (10): Accesibilidad, Informacion general, Museo Nacional de la Cultura Peruana (MNCP), Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
+Cohesion: 0.09
+Nodes (19): 📍 Lima, Listado, Accesibilidad, Informacion general, Museo Nacional de la Cultura Peruana (MNCP), Notas, Precios, Salas (+11 more)
 
 ### Community 11 - "Community 11"
 Cohesion: 0.25
@@ -201,25 +205,37 @@ Nodes (4): Comandos útiles, Estructura del vault, Frontmatter obligatorio para 
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Zona Arqueológica Monumental Huaycán de Cieneguilla, Salas / Áreas
 
+### Community 37 - "Community 37"
+Cohesion: 0.17
+Nodes (10): Accesibilidad, Informacion general, Museo de Sitio de Quinua, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
+
+### Community 38 - "Community 38"
+Cohesion: 0.25
+Nodes (7): Salas — Complejo Arqueológico Chan Chan – Museo de Sitio, Accesibilidad, Complejo Arqueológico Chan Chan – Museo de Sitio, Informacion general, Notas, Precios, Salas
+
+### Community 39 - "Community 39"
+Cohesion: 0.29
+Nodes (6): Accesibilidad, Informacion general, Museo de Prueba TourUP, Notas, Precios, Salas
+
 ## Knowledge Gaps
-- **186 isolated node(s):** `Rol`, `Regla principal de contexto`, `Modelo de contenido y grafo`, `Estructura del vault`, `Lo que debes evitar` (+181 more)
+- **192 isolated node(s):** `Rol`, `Regla principal de contexto`, `Modelo de contenido y grafo`, `Estructura del vault`, `Lo que debes evitar` (+187 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **6 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **7 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `🗺️ TourUP_proyect` connect `Community 2` to `Community 0`, `Community 1`, `Community 4`, `Community 7`?**
-  _High betweenness centrality (0.106) - this node is a cross-community bridge._
-- **Why does `Peru` connect `Community 2` to `Community 0`, `Community 1`, `Community 4`, `Community 7`?**
+- **Why does `🗺️ TourUP_proyect` connect `Community 2` to `Community 1`, `Community 10`?**
   _High betweenness centrality (0.099) - this node is a cross-community bridge._
+- **Why does `Peru` connect `Community 2` to `Community 1`, `Community 10`?**
+  _High betweenness centrality (0.093) - this node is a cross-community bridge._
+- **Why does `Complejo Arqueológico Chan Chan – Museo de Sitio` connect `Community 38` to `Community 2`?**
+  _High betweenness centrality (0.022) - this node is a cross-community bridge._
 - **What connects `Rol`, `Regla principal de contexto`, `Modelo de contenido y grafo` to the rest of the system?**
-  _186 weakly-connected nodes found - possible documentation gaps or missing edges._
-- **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.09523809523809523 - nodes in this community are weakly interconnected._
+  _192 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 1` be split into smaller, more focused modules?**
   _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
 - **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.07407407407407407 - nodes in this community are weakly interconnected._
-- **Should `Community 4` be split into smaller, more focused modules?**
-  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.1038961038961039 - nodes in this community are weakly interconnected._
+- **Should `Community 10` be split into smaller, more focused modules?**
+  _Cohesion score 0.08695652173913043 - nodes in this community are weakly interconnected._

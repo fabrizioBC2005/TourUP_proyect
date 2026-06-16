@@ -178,6 +178,14 @@
   },
   "active": "28c13ca14f8a5491",
   "lastOpenFiles": [
+    "sources/salas_pachacamac.csv",
+    "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+    "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+    "wiki/Lambayeque/Museo Tumbas Reales de Sipan",
+    "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+    "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+    "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+    "inbox/salas_pachacamac.csv",
     "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
     "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
     "graphify-out/2026-06-15/GRAPH_REPORT.md",
@@ -195,8 +203,6 @@
     "graphify-out/graph.json",
     "graphify-out/cache/semantic/0abb97d58e6fddc0954aeafe5363b5e0076c38dc60df78f80c0e2e7b1495bbaa.json",
     "graphify-out/cache/semantic/b0a39fdf6970dc461f71e8a88007db7b178d991d9df3966935f6f93472e3921e.json",
-    "graphify-out/cache/semantic/d5a8f38c13ca0f91b5270ae9d7ad8618fb5d0fb43f60a27c0f37f218ebec5191.json",
-    "graphify-out/cache/semantic/a24e3b83d1dc50591e6a61a8c579318ec4c4a5ed4b38a853ca76f8696ae93650.json",
     "_COMMUNITY_Community 2.md",
     "TourUP_proyect/Lima/Zona ArqueolÃ³gica Monumental HuaycÃ¡n de Cieneguilla/Salas.md",
     "schema/CLAUDE.md",
@@ -208,12 +214,6 @@
     "wiki/Lima/Zona ArqueolÃ³gica Monumental HuaycÃ¡n de Cieneguilla/Zona ArqueolÃ³gica Monumental HuaycÃ¡n de Cieneguilla.md",
     "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Salas.md",
     "wiki/Lima/Complejo ArqueolÃ³gico Mateo Salado/Complejo ArqueolÃ³gico Mateo Salado.md",
-    "wiki/Lima/Complejo ArqueolÃ³gico Mateo Salado/Salas.md",
-    "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
-    "wiki/Lima/Museo Nacional de ArqueologÃ­a AntropologÃ­a e Historia del PerÃº (MNAAHP)/Salas.md",
-    "wiki/Lima/Museo Nacional de ArqueologÃ­a AntropologÃ­a e Historia del PerÃº (MNAAHP)/Museo Nacional de ArqueologÃ­a AntropologÃ­a e Historia del PerÃº (MNAAHP).md",
-    "wiki/Lima/Museo de Arte Italiano/Salas.md",
-    "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
-    "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md"
+    "wiki/Lima/Complejo ArqueolÃ³gico Mateo Salado/Salas.md"
   ]
 }

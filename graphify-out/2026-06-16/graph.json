@@ -410,7 +410,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "community": 2,
+      "community": 37,
       "norm_label": "museo de sitio de quinua.md"
     },
     {
@@ -420,7 +420,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "community": 2,
+      "community": 37,
       "norm_label": "museo de sitio de quinua"
     },
     {
@@ -430,7 +430,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_informacion_general",
-      "community": 2,
+      "community": 37,
       "norm_label": "informacion general"
     },
     {
@@ -440,7 +440,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_precios",
-      "community": 2,
+      "community": 37,
       "norm_label": "precios"
     },
     {
@@ -450,7 +450,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_accesibilidad",
-      "community": 2,
+      "community": 37,
       "norm_label": "accesibilidad"
     },
     {
@@ -460,7 +460,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_salas",
-      "community": 2,
+      "community": 37,
       "norm_label": "salas"
     },
     {
@@ -470,7 +470,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_notas",
-      "community": 2,
+      "community": 37,
       "norm_label": "notas"
     },
     {
@@ -480,7 +480,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_salas",
-      "community": 2,
+      "community": 37,
       "norm_label": "salas.md"
     },
     {
@@ -490,7 +490,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua",
-      "community": 2,
+      "community": 37,
       "norm_label": "\ud83d\uddc2\ufe0f salas \u2014 museo de sitio de quinua"
     },
     {
@@ -500,7 +500,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_salas_salas_\u00e1reas",
-      "community": 2,
+      "community": 37,
       "norm_label": "salas / areas"
     },
     {
@@ -510,7 +510,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_salas_recorrido_recomendado",
-      "community": 2,
+      "community": 37,
       "norm_label": "recorrido recomendado"
     },
     {
@@ -520,8 +520,108 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "museo_de_sitio_de_quinua_salas_horarios_por_sala",
-      "community": 2,
+      "community": 37,
       "norm_label": "horarios por sala"
+    },
+    {
+      "label": "Museo de Prueba TourUP.md",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "community": 39,
+      "norm_label": "museo de prueba tourup.md"
+    },
+    {
+      "label": "Museo de Prueba TourUP",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L14",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "community": 39,
+      "norm_label": "museo de prueba tourup"
+    },
+    {
+      "label": "Informacion general",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_informacion_general",
+      "community": 39,
+      "norm_label": "informacion general"
+    },
+    {
+      "label": "Precios",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L27",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_precios",
+      "community": 39,
+      "norm_label": "precios"
+    },
+    {
+      "label": "Accesibilidad",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_accesibilidad",
+      "community": 39,
+      "norm_label": "accesibilidad"
+    },
+    {
+      "label": "Salas",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L44",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_salas",
+      "community": 39,
+      "norm_label": "salas"
+    },
+    {
+      "label": "Notas",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L48",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_notas",
+      "community": 39,
+      "norm_label": "notas"
+    },
+    {
+      "label": "Salas.md",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_salas",
+      "community": 40,
+      "norm_label": "salas.md"
+    },
+    {
+      "label": "Salas - Museo de Prueba TourUP",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_salas_salas_museo_de_prueba_tourup",
+      "community": 40,
+      "norm_label": "salas - museo de prueba tourup"
+    },
+    {
+      "label": "Salas / Areas",
+      "file_type": "document",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
+      "source_location": "L3",
+      "_origin": "ast",
+      "id": "museo_de_prueba_tourup_salas_salas_areas",
+      "community": 40,
+      "norm_label": "salas / areas"
     },
     {
       "label": "00 - Ica.md",
@@ -530,7 +630,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ica_00_ica",
-      "community": 7,
+      "community": 2,
       "norm_label": "00 - ica.md"
     },
     {
@@ -540,7 +640,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ica_00_ica_ica",
-      "community": 7,
+      "community": 2,
       "norm_label": "\ud83d\udccd ica"
     },
     {
@@ -550,7 +650,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "ica_00_ica_listado",
-      "community": 7,
+      "community": 2,
       "norm_label": "listado"
     },
     {
@@ -780,7 +880,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "la_libertad_00_la_libertad",
-      "community": 0,
+      "community": 2,
       "norm_label": "00 - la libertad.md"
     },
     {
@@ -790,7 +890,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "la_libertad_00_la_libertad_la_libertad",
-      "community": 0,
+      "community": 2,
       "norm_label": "\ud83d\udccd la libertad"
     },
     {
@@ -800,7 +900,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "la_libertad_00_la_libertad_listado",
-      "community": 0,
+      "community": 2,
       "norm_label": "listado"
     },
     {
@@ -930,7 +1030,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "community": 0,
+      "community": 38,
       "norm_label": "complejo arqueologico chan chan \u2013 museo de sitio.md"
     },
     {
@@ -940,7 +1040,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "community": 0,
+      "community": 38,
       "norm_label": "complejo arqueologico chan chan \u2013 museo de sitio"
     },
     {
@@ -950,7 +1050,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_informacion_general",
-      "community": 0,
+      "community": 38,
       "norm_label": "informacion general"
     },
     {
@@ -960,7 +1060,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_precios",
-      "community": 0,
+      "community": 38,
       "norm_label": "precios"
     },
     {
@@ -970,7 +1070,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_accesibilidad",
-      "community": 0,
+      "community": 38,
       "norm_label": "accesibilidad"
     },
     {
@@ -980,7 +1080,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas",
-      "community": 0,
+      "community": 38,
       "norm_label": "salas"
     },
     {
@@ -990,7 +1090,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_notas",
-      "community": 0,
+      "community": 38,
       "norm_label": "notas"
     },
     {
@@ -1870,7 +1970,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_00_lima",
-      "community": 4,
+      "community": 10,
       "norm_label": "00 - lima.md"
     },
     {
@@ -1880,7 +1980,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_00_lima_lima",
-      "community": 4,
+      "community": 10,
       "norm_label": "\ud83d\udccd lima"
     },
     {
@@ -1890,7 +1990,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "lima_00_lima_listado",
-      "community": 4,
+      "community": 10,
       "norm_label": "listado"
     },
     {
@@ -2850,7 +2950,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "community": 4,
+      "community": 10,
       "norm_label": "zona arqueologica monumental huaycan de cieneguilla.md"
     },
     {
@@ -2860,7 +2960,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "community": 4,
+      "community": 10,
       "norm_label": "zona arqueologica monumental huaycan de cieneguilla"
     },
     {
@@ -2870,7 +2970,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_informacion_general",
-      "community": 4,
+      "community": 10,
       "norm_label": "informacion general"
     },
     {
@@ -2880,7 +2980,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_precios",
-      "community": 4,
+      "community": 10,
       "norm_label": "precios"
     },
     {
@@ -2890,7 +2990,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_accesibilidad",
-      "community": 4,
+      "community": 10,
       "norm_label": "accesibilidad"
     },
     {
@@ -2900,7 +3000,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas",
-      "community": 4,
+      "community": 10,
       "norm_label": "salas"
     },
     {
@@ -2910,7 +3010,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_notas",
-      "community": 4,
+      "community": 10,
       "norm_label": "notas"
     },
     {
@@ -2962,7 +3062,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 0,
+      "community": 38,
       "norm_label": "salas \u2014 complejo arqueologico chan chan \u2013 museo de sitio",
       "id": "complejo_arqueologico_chan_chan_museo_de_sitio_salas"
     },
@@ -3027,7 +3127,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 4,
+      "community": 10,
       "norm_label": "salas \u2014 zona arqueologica monumental huaycan de cieneguilla",
       "id": "zona_arqueologica_monumental_huaycan_de_cieneguilla_salas"
     }
@@ -3039,9 +3139,9 @@
       "source_file": "pipeline.py",
       "source_location": "L123",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_actualizar_grafo",
-      "confidence_score": 1.0
+      "target": "pipeline_actualizar_grafo"
     },
     {
       "relation": "contains",
@@ -3049,9 +3149,9 @@
       "source_file": "pipeline.py",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_icono",
-      "confidence_score": 1.0
+      "target": "pipeline_icono"
     },
     {
       "relation": "contains",
@@ -3059,9 +3159,9 @@
       "source_file": "pipeline.py",
       "source_location": "L132",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_inboxhandler",
-      "confidence_score": 1.0
+      "target": "pipeline_inboxhandler"
     },
     {
       "relation": "contains",
@@ -3069,9 +3169,9 @@
       "source_file": "pipeline.py",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_nombre_seguro",
-      "confidence_score": 1.0
+      "target": "pipeline_nombre_seguro"
     },
     {
       "relation": "contains",
@@ -3079,9 +3179,9 @@
       "source_file": "pipeline.py",
       "source_location": "L26",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_procesar_csv",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_csv"
     },
     {
       "relation": "calls",
@@ -3090,9 +3190,9 @@
       "source_file": "pipeline.py",
       "source_location": "L31",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_procesar_csv",
-      "target": "pipeline_nombre_seguro",
-      "confidence_score": 1.0
+      "target": "pipeline_nombre_seguro"
     },
     {
       "relation": "calls",
@@ -3101,9 +3201,9 @@
       "source_file": "pipeline.py",
       "source_location": "L86",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_procesar_csv",
-      "target": "pipeline_icono",
-      "confidence_score": 1.0
+      "target": "pipeline_icono"
     },
     {
       "relation": "calls",
@@ -3112,9 +3212,9 @@
       "source_file": "pipeline.py",
       "source_location": "L139",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler_on_created",
-      "target": "pipeline_procesar_csv",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_csv"
     },
     {
       "relation": "calls",
@@ -3123,9 +3223,9 @@
       "source_file": "pipeline.py",
       "source_location": "L121",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_procesar_csv",
-      "target": "pipeline_actualizar_grafo",
-      "confidence_score": 1.0
+      "target": "pipeline_actualizar_grafo"
     },
     {
       "relation": "inherits",
@@ -3133,9 +3233,9 @@
       "source_file": "pipeline.py",
       "source_location": "L132",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler",
-      "target": "filesystemeventhandler",
-      "confidence_score": 1.0
+      "target": "filesystemeventhandler"
     },
     {
       "relation": "method",
@@ -3143,9 +3243,9 @@
       "source_file": "pipeline.py",
       "source_location": "L133",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler",
-      "target": "pipeline_inboxhandler_on_created",
-      "confidence_score": 1.0
+      "target": "pipeline_inboxhandler_on_created"
     },
     {
       "relation": "contains",
@@ -3153,9 +3253,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_estructura_del_vault",
-      "confidence_score": 1.0
+      "target": "claude_estructura_del_vault"
     },
     {
       "relation": "contains",
@@ -3163,9 +3263,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L55",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_flujo_ideal",
-      "confidence_score": 1.0
+      "target": "claude_flujo_ideal"
     },
     {
       "relation": "contains",
@@ -3173,9 +3273,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_graphify_memoria_central_del_proyecto",
-      "confidence_score": 1.0
+      "target": "claude_graphify_memoria_central_del_proyecto"
     },
     {
       "relation": "contains",
@@ -3183,9 +3283,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_lo_que_debes_evitar",
-      "confidence_score": 1.0
+      "target": "claude_lo_que_debes_evitar"
     },
     {
       "relation": "contains",
@@ -3193,9 +3293,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_modelo_de_contenido_y_grafo",
-      "confidence_score": 1.0
+      "target": "claude_modelo_de_contenido_y_grafo"
     },
     {
       "relation": "contains",
@@ -3203,9 +3303,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_rol",
-      "confidence_score": 1.0
+      "target": "claude_rol"
     },
     {
       "relation": "contains",
@@ -3213,9 +3313,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_graphify_memoria_central_del_proyecto",
-      "target": "claude_regla_principal_de_contexto",
-      "confidence_score": 1.0
+      "target": "claude_regla_principal_de_contexto"
     },
     {
       "relation": "contains",
@@ -3223,9 +3323,9 @@
       "source_file": "TourUP_proyect.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "tourup_proyect",
-      "target": "tourup_proyect_tourup_proyect",
-      "confidence_score": 1.0
+      "target": "tourup_proyect_tourup_proyect"
     },
     {
       "relation": "references",
@@ -3293,9 +3393,9 @@
       "source_file": "TourUP_proyect.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "tourup_proyect_tourup_proyect",
-      "target": "tourup_proyect_estructura",
-      "confidence_score": 1.0
+      "target": "tourup_proyect_estructura"
     },
     {
       "relation": "contains",
@@ -3303,9 +3403,9 @@
       "source_file": "TourUP_proyect.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "tourup_proyect_tourup_proyect",
-      "target": "tourup_proyect_qu\u00e9_es_este_vault",
-      "confidence_score": 1.0
+      "target": "tourup_proyect_qu\u00e9_es_este_vault"
     },
     {
       "relation": "contains",
@@ -3313,9 +3413,9 @@
       "source_file": "TourUP_proyect.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "tourup_proyect_tourup_proyect",
-      "target": "tourup_proyect_regiones",
-      "confidence_score": 1.0
+      "target": "tourup_proyect_regiones"
     },
     {
       "relation": "contains",
@@ -3323,9 +3423,9 @@
       "source_file": "TourUP_proyect.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "tourup_proyect_tourup_proyect",
-      "target": "tourup_proyect_total",
-      "confidence_score": 1.0
+      "target": "tourup_proyect_total"
     },
     {
       "relation": "contains",
@@ -3333,9 +3433,9 @@
       "source_file": "schema/CLAUDE.md",
       "source_location": "L20",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "schema_claude",
-      "target": "schema_claude_comandos_\u00fatiles",
-      "confidence_score": 1.0
+      "target": "schema_claude_comandos_\u00fatiles"
     },
     {
       "relation": "contains",
@@ -3343,9 +3443,9 @@
       "source_file": "schema/CLAUDE.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "schema_claude",
-      "target": "schema_claude_estructura_del_vault",
-      "confidence_score": 1.0
+      "target": "schema_claude_estructura_del_vault"
     },
     {
       "relation": "contains",
@@ -3353,9 +3453,9 @@
       "source_file": "schema/CLAUDE.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "schema_claude",
-      "target": "schema_claude_frontmatter_obligatorio_para_museos",
-      "confidence_score": 1.0
+      "target": "schema_claude_frontmatter_obligatorio_para_museos"
     },
     {
       "relation": "contains",
@@ -3363,9 +3463,9 @@
       "source_file": "schema/CLAUDE.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "schema_claude",
-      "target": "schema_claude_reglas_para_agentes",
-      "confidence_score": 1.0
+      "target": "schema_claude_reglas_para_agentes"
     },
     {
       "relation": "contains",
@@ -3373,9 +3473,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general",
-      "target": "wiki_00_\u00e3_ndice_general_museos_accesibles_del_per\u00fa",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_museos_accesibles_del_per\u00fa"
     },
     {
       "relation": "contains",
@@ -3383,9 +3483,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L6",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_museos_accesibles_del_per\u00fa",
-      "target": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n"
     },
     {
       "relation": "contains",
@@ -3393,9 +3493,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "target": "wiki_00_\u00e3_ndice_general_ayacucho_museo_de_sitio_de_quinua",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_ayacucho_museo_de_sitio_de_quinua"
     },
     {
       "relation": "contains",
@@ -3403,9 +3503,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L12",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "target": "wiki_00_\u00e3_ndice_general_ica_museo_de_sitio_julio_c_tello_paracas",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_ica_museo_de_sitio_julio_c_tello_paracas"
     },
     {
       "relation": "contains",
@@ -3413,9 +3513,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L11",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "target": "wiki_00_\u00e3_ndice_general_la_libertad_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_la_libertad_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_huacas_de_moche_museo_de_sitio_huaca_de_la_luna"
     },
     {
       "relation": "contains",
@@ -3423,9 +3523,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "target": "wiki_00_\u00e3_ndice_general_lambayeque_museo_tumbas_reales_de_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_lambayeque_museo_tumbas_reales_de_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -3433,9 +3533,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "target": "wiki_00_\u00e3_ndice_general_lima_barranca_ciudad_sagrada_de_caral",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_lima_barranca_ciudad_sagrada_de_caral"
     },
     {
       "relation": "contains",
@@ -3443,9 +3543,9 @@
       "source_file": "wiki/00 - \u00c3\u008dndice General.md",
       "source_location": "L8",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_00_\u00e3_ndice_general_por_regi\u00f3n",
-      "target": "wiki_00_\u00e3_ndice_general_lima_museo_de_sitio_pachacamac_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_la_cultura_peruana_mncp_museo_de_arte_italiano_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_complejo_arqueol\u00f3gico_mateo_salado",
-      "confidence_score": 1.0
+      "target": "wiki_00_\u00e3_ndice_general_lima_museo_de_sitio_pachacamac_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_la_cultura_peruana_mncp_museo_de_arte_italiano_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_complejo_arqueol\u00f3gico_mateo_salado"
     },
     {
       "relation": "contains",
@@ -3453,9 +3553,9 @@
       "source_file": "wiki/Ayacucho/00 - Ayacucho.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ayacucho_00_ayacucho",
-      "target": "ayacucho_00_ayacucho_ayacucho",
-      "confidence_score": 1.0
+      "target": "ayacucho_00_ayacucho_ayacucho"
     },
     {
       "relation": "references",
@@ -3483,9 +3583,9 @@
       "source_file": "wiki/Ayacucho/00 - Ayacucho.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ayacucho_00_ayacucho_ayacucho",
-      "target": "ayacucho_00_ayacucho_listado",
-      "confidence_score": 1.0
+      "target": "ayacucho_00_ayacucho_listado"
     },
     {
       "relation": "contains",
@@ -3493,9 +3593,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua"
     },
     {
       "relation": "references",
@@ -3513,9 +3613,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_accesibilidad"
     },
     {
       "relation": "contains",
@@ -3523,9 +3623,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_informacion_general"
     },
     {
       "relation": "contains",
@@ -3533,9 +3633,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_notas"
     },
     {
       "relation": "contains",
@@ -3543,9 +3643,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_precios"
     },
     {
       "relation": "contains",
@@ -3553,9 +3653,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_salas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua_salas"
     },
     {
       "relation": "contains",
@@ -3563,9 +3663,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_salas",
-      "target": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua"
     },
     {
       "relation": "contains",
@@ -3573,9 +3673,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -3583,9 +3683,9 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_de_quinua_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -3593,8 +3693,88 @@
       "source_file": "wiki/Ayacucho/Museo de Sitio de Quinua/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua",
-      "target": "museo_de_sitio_de_quinua_salas_salas_\u00e1reas",
+      "target": "museo_de_sitio_de_quinua_salas_salas_\u00e1reas"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_accesibilidad",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_informacion_general",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L48",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_notas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_precios",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+      "source_location": "L44",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_salas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_salas",
+      "target": "museo_de_prueba_tourup_salas_salas_museo_de_prueba_tourup",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "museo_de_prueba_tourup_salas_salas_museo_de_prueba_tourup",
+      "target": "museo_de_prueba_tourup_salas_salas_areas",
       "confidence_score": 1.0
     },
     {
@@ -3603,9 +3783,9 @@
       "source_file": "wiki/Ica/00 - Ica.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ica_00_ica",
-      "target": "ica_00_ica_ica",
-      "confidence_score": 1.0
+      "target": "ica_00_ica_ica"
     },
     {
       "relation": "references",
@@ -3633,9 +3813,9 @@
       "source_file": "wiki/Ica/00 - Ica.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ica_00_ica_ica",
-      "target": "ica_00_ica_listado",
-      "confidence_score": 1.0
+      "target": "ica_00_ica_listado"
     },
     {
       "relation": "contains",
@@ -3643,9 +3823,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas"
     },
     {
       "relation": "contains",
@@ -3653,9 +3833,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_accesibilidad"
     },
     {
       "relation": "contains",
@@ -3663,9 +3843,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -3673,9 +3853,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_notas"
     },
     {
       "relation": "contains",
@@ -3683,9 +3863,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_precios"
     },
     {
       "relation": "contains",
@@ -3693,9 +3873,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -3703,9 +3883,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas"
     },
     {
       "relation": "contains",
@@ -3713,9 +3893,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -3723,9 +3903,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -3733,9 +3913,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_\u00e2_paracas_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -3743,9 +3923,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas"
     },
     {
       "relation": "references",
@@ -3763,9 +3943,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_accesibilidad"
     },
     {
       "relation": "contains",
@@ -3773,9 +3953,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_informacion_general"
     },
     {
       "relation": "contains",
@@ -3783,9 +3963,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_notas"
     },
     {
       "relation": "contains",
@@ -3793,9 +3973,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_precios"
     },
     {
       "relation": "contains",
@@ -3803,9 +3983,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_salas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas_salas"
     },
     {
       "relation": "contains",
@@ -3813,9 +3993,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_salas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas"
     },
     {
       "relation": "contains",
@@ -3823,9 +4003,9 @@
       "source_file": "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_julio_c_tello_paracas_salas_salas_museo_de_sitio_julio_c_tello_paracas",
-      "target": "museo_de_sitio_julio_c_tello_paracas_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_julio_c_tello_paracas_salas_salas_areas"
     },
     {
       "relation": "references",
@@ -3853,9 +4033,9 @@
       "source_file": "wiki/La Libertad/00 - La Libertad.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "la_libertad_00_la_libertad",
-      "target": "la_libertad_00_la_libertad_la_libertad",
-      "confidence_score": 1.0
+      "target": "la_libertad_00_la_libertad_la_libertad"
     },
     {
       "relation": "references",
@@ -3873,9 +4053,9 @@
       "source_file": "wiki/La Libertad/00 - La Libertad.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "la_libertad_00_la_libertad_la_libertad",
-      "target": "la_libertad_00_la_libertad_listado",
-      "confidence_score": 1.0
+      "target": "la_libertad_00_la_libertad_listado"
     },
     {
       "relation": "contains",
@@ -3883,9 +4063,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio"
     },
     {
       "relation": "contains",
@@ -3893,9 +4073,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_accesibilidad",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_accesibilidad"
     },
     {
       "relation": "contains",
@@ -3903,9 +4083,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -3913,9 +4093,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_notas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_notas"
     },
     {
       "relation": "contains",
@@ -3923,9 +4103,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_precios",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_precios"
     },
     {
       "relation": "contains",
@@ -3933,9 +4113,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -3943,9 +4123,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio"
     },
     {
       "relation": "contains",
@@ -3953,9 +4133,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -3963,9 +4143,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -3973,9 +4153,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_chan_chan_\u00e2_museo_de_sitio_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -3983,9 +4163,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio"
     },
     {
       "relation": "references",
@@ -4003,9 +4183,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_accesibilidad",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4013,9 +4193,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_informacion_general",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_informacion_general"
     },
     {
       "relation": "contains",
@@ -4023,9 +4203,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_notas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_notas"
     },
     {
       "relation": "contains",
@@ -4033,9 +4213,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_precios",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_precios"
     },
     {
       "relation": "contains",
@@ -4043,9 +4223,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas"
     },
     {
       "relation": "contains",
@@ -4053,9 +4233,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio"
     },
     {
       "relation": "contains",
@@ -4063,9 +4243,9 @@
       "source_file": "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas_salas_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas_salas_areas"
     },
     {
       "relation": "contains",
@@ -4073,9 +4253,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna"
     },
     {
       "relation": "contains",
@@ -4083,9 +4263,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_accesibilidad",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4093,9 +4273,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -4103,9 +4283,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_notas",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_notas"
     },
     {
       "relation": "contains",
@@ -4113,9 +4293,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_precios",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_precios"
     },
     {
       "relation": "contains",
@@ -4123,9 +4303,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -4133,9 +4313,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna"
     },
     {
       "relation": "contains",
@@ -4143,9 +4323,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -4153,9 +4333,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -4163,9 +4343,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_\u00e2_museo_de_sitio_huaca_de_la_luna_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -4173,9 +4353,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna"
     },
     {
       "relation": "references",
@@ -4193,9 +4373,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_accesibilidad",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4203,9 +4383,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_informacion_general",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_informacion_general"
     },
     {
       "relation": "contains",
@@ -4213,9 +4393,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_notas",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_notas"
     },
     {
       "relation": "contains",
@@ -4223,9 +4403,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_precios",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_precios"
     },
     {
       "relation": "contains",
@@ -4233,9 +4413,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas"
     },
     {
       "relation": "contains",
@@ -4243,9 +4423,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna"
     },
     {
       "relation": "contains",
@@ -4253,9 +4433,9 @@
       "source_file": "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_areas"
     },
     {
       "relation": "contains",
@@ -4263,9 +4443,9 @@
       "source_file": "wiki/Lambayeque/00 - Lambayeque.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lambayeque_00_lambayeque",
-      "target": "lambayeque_00_lambayeque_lambayeque",
-      "confidence_score": 1.0
+      "target": "lambayeque_00_lambayeque_lambayeque"
     },
     {
       "relation": "references",
@@ -4303,9 +4483,9 @@
       "source_file": "wiki/Lambayeque/00 - Lambayeque.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lambayeque_00_lambayeque_lambayeque",
-      "target": "lambayeque_00_lambayeque_listado",
-      "confidence_score": 1.0
+      "target": "lambayeque_00_lambayeque_listado"
     },
     {
       "relation": "contains",
@@ -4313,9 +4493,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -4323,9 +4503,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4333,9 +4513,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -4343,9 +4523,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_notas",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_notas"
     },
     {
       "relation": "contains",
@@ -4353,9 +4533,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_precios",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_precios"
     },
     {
       "relation": "contains",
@@ -4363,9 +4543,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_museo_tumbas_reales_de_sip\u00e3_n_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -4373,9 +4553,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_salas",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_museo_tumbas_reales_de_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_museo_tumbas_reales_de_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -4383,9 +4563,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -4393,9 +4573,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -4403,9 +4583,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e3_n_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -4413,9 +4593,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n"
     },
     {
       "relation": "references",
@@ -4433,9 +4613,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4443,9 +4623,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_informacion_general"
     },
     {
       "relation": "contains",
@@ -4453,9 +4633,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_notas",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_notas"
     },
     {
       "relation": "contains",
@@ -4463,9 +4643,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_precios",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_precios"
     },
     {
       "relation": "contains",
@@ -4473,9 +4653,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_salas",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_museo_tumbas_reales_de_sip\u00e1n_salas"
     },
     {
       "relation": "contains",
@@ -4483,9 +4663,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_salas",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_salas_salas_museo_tumbas_reales_de_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_salas_salas_museo_tumbas_reales_de_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -4493,9 +4673,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sip\u00e1n_salas_salas_museo_tumbas_reales_de_sip\u00e1n",
-      "target": "museo_tumbas_reales_de_sip\u00e1n_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sip\u00e1n_salas_salas_areas"
     },
     {
       "relation": "contains",
@@ -4503,9 +4683,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -4513,9 +4693,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4523,9 +4703,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -4533,9 +4713,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_notas"
     },
     {
       "relation": "contains",
@@ -4543,9 +4723,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_precios"
     },
     {
       "relation": "contains",
@@ -4553,9 +4733,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -4563,9 +4743,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -4573,9 +4753,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -4583,9 +4763,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -4593,9 +4773,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_\u00e2_sip\u00e3_n_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -4603,9 +4783,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n"
     },
     {
       "relation": "references",
@@ -4623,9 +4803,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4633,9 +4813,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_informacion_general"
     },
     {
       "relation": "contains",
@@ -4643,9 +4823,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_notas"
     },
     {
       "relation": "contains",
@@ -4653,9 +4833,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_precios"
     },
     {
       "relation": "contains",
@@ -4663,9 +4843,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_salas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_museo_de_sitio_huaca_rajada_sip\u00e1n_salas"
     },
     {
       "relation": "contains",
@@ -4673,9 +4853,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_salas",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n"
     },
     {
       "relation": "contains",
@@ -4683,9 +4863,9 @@
       "source_file": "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_huaca_rajada_sip\u00e1n_salas_salas_museo_de_sitio_huaca_rajada_sip\u00e1n",
-      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_huaca_rajada_sip\u00e1n_salas_salas_areas"
     },
     {
       "relation": "references",
@@ -4703,9 +4883,9 @@
       "source_file": "wiki/Lima Barranca/00 - Lima Barranca.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lima_barranca_00_lima_barranca",
-      "target": "lima_barranca_00_lima_barranca_lima_barranca",
-      "confidence_score": 1.0
+      "target": "lima_barranca_00_lima_barranca_lima_barranca"
     },
     {
       "relation": "references",
@@ -4723,9 +4903,9 @@
       "source_file": "wiki/Lima Barranca/00 - Lima Barranca.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lima_barranca_00_lima_barranca_lima_barranca",
-      "target": "lima_barranca_00_lima_barranca_listado",
-      "confidence_score": 1.0
+      "target": "lima_barranca_00_lima_barranca_listado"
     },
     {
       "relation": "contains",
@@ -4733,9 +4913,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral"
     },
     {
       "relation": "references",
@@ -4753,9 +4933,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_accesibilidad",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4763,9 +4943,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_informacion_general",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_informacion_general"
     },
     {
       "relation": "contains",
@@ -4773,9 +4953,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_notas",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_notas"
     },
     {
       "relation": "contains",
@@ -4783,9 +4963,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_precios",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_precios"
     },
     {
       "relation": "contains",
@@ -4793,9 +4973,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_salas",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral_salas"
     },
     {
       "relation": "contains",
@@ -4803,9 +4983,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_salas",
-      "target": "ciudad_sagrada_de_caral_salas_salas_ciudad_sagrada_de_caral",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_salas_salas_ciudad_sagrada_de_caral"
     },
     {
       "relation": "contains",
@@ -4813,9 +4993,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_salas_salas_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -4823,9 +5003,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_salas_salas_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -4833,9 +5013,9 @@
       "source_file": "wiki/Lima Barranca/Ciudad Sagrada de Caral/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "ciudad_sagrada_de_caral_salas_salas_ciudad_sagrada_de_caral",
-      "target": "ciudad_sagrada_de_caral_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "ciudad_sagrada_de_caral_salas_salas_\u00e1reas"
     },
     {
       "relation": "references",
@@ -4853,9 +5033,9 @@
       "source_file": "wiki/Lima/00 - Lima.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lima_00_lima",
-      "target": "lima_00_lima_lima",
-      "confidence_score": 1.0
+      "target": "lima_00_lima_lima"
     },
     {
       "relation": "references",
@@ -4923,9 +5103,9 @@
       "source_file": "wiki/Lima/00 - Lima.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "lima_00_lima_lima",
-      "target": "lima_00_lima_listado",
-      "confidence_score": 1.0
+      "target": "lima_00_lima_listado"
     },
     {
       "relation": "contains",
@@ -4933,9 +5113,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado"
     },
     {
       "relation": "contains",
@@ -4943,9 +5123,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_accesibilidad",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_accesibilidad"
     },
     {
       "relation": "contains",
@@ -4953,9 +5133,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -4963,9 +5143,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_notas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_notas"
     },
     {
       "relation": "contains",
@@ -4973,9 +5153,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_precios",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_precios"
     },
     {
       "relation": "contains",
@@ -4983,9 +5163,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_complejo_arqueol\u00e33gico_mateo_salado_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -4993,9 +5173,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_salas",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado"
     },
     {
       "relation": "contains",
@@ -5003,9 +5183,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -5013,9 +5193,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -5023,9 +5203,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00e33gico_mateo_salado_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -5033,9 +5213,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado"
     },
     {
       "relation": "references",
@@ -5053,9 +5233,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_accesibilidad",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5063,9 +5243,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_informacion_general",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_informacion_general"
     },
     {
       "relation": "contains",
@@ -5073,9 +5253,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_notas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_notas"
     },
     {
       "relation": "contains",
@@ -5083,9 +5263,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_precios",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_precios"
     },
     {
       "relation": "contains",
@@ -5093,9 +5273,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_salas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_complejo_arqueol\u00f3gico_mateo_salado_salas"
     },
     {
       "relation": "contains",
@@ -5103,9 +5283,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_salas",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado"
     },
     {
       "relation": "contains",
@@ -5113,9 +5293,9 @@
       "source_file": "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "complejo_arqueol\u00f3gico_mateo_salado_salas_salas_complejo_arqueol\u00f3gico_mateo_salado",
-      "target": "complejo_arqueol\u00f3gico_mateo_salado_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "complejo_arqueol\u00f3gico_mateo_salado_salas_salas_areas"
     },
     {
       "relation": "contains",
@@ -5123,9 +5303,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp"
     },
     {
       "relation": "contains",
@@ -5133,9 +5313,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5143,9 +5323,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -5153,9 +5333,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_notas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_notas"
     },
     {
       "relation": "contains",
@@ -5163,9 +5343,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_precios",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_precios"
     },
     {
       "relation": "contains",
@@ -5173,9 +5353,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -5183,9 +5363,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp"
     },
     {
       "relation": "contains",
@@ -5193,9 +5373,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -5203,9 +5383,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -5213,9 +5393,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00e3_a_antropolog\u00e3_a_e_historia_del_per\u00e3o_mnaahp_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -5223,9 +5403,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp"
     },
     {
       "relation": "references",
@@ -5243,9 +5423,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5253,9 +5433,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_informacion_general"
     },
     {
       "relation": "contains",
@@ -5263,9 +5443,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_notas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_notas"
     },
     {
       "relation": "contains",
@@ -5273,9 +5453,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_precios",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_precios"
     },
     {
       "relation": "contains",
@@ -5283,9 +5463,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas"
     },
     {
       "relation": "contains",
@@ -5293,9 +5473,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp"
     },
     {
       "relation": "contains",
@@ -5303,9 +5483,9 @@
       "source_file": "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas_salas_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas_salas_areas"
     },
     {
       "relation": "contains",
@@ -5313,9 +5493,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp"
     },
     {
       "relation": "references",
@@ -5333,9 +5513,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5343,9 +5523,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_informacion_general"
     },
     {
       "relation": "contains",
@@ -5353,9 +5533,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_notas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_notas"
     },
     {
       "relation": "contains",
@@ -5363,9 +5543,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_precios",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_precios"
     },
     {
       "relation": "contains",
@@ -5373,9 +5553,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_salas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp_salas"
     },
     {
       "relation": "contains",
@@ -5383,9 +5563,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_salas",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_museo_nacional_de_la_cultura_peruana_mncp",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_museo_nacional_de_la_cultura_peruana_mncp"
     },
     {
       "relation": "contains",
@@ -5393,9 +5573,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -5403,9 +5583,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -5413,9 +5593,9 @@
       "source_file": "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_museo_nacional_de_la_cultura_peruana_mncp",
-      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_nacional_de_la_cultura_peruana_mncp_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -5423,9 +5603,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano"
     },
     {
       "relation": "references",
@@ -5443,9 +5623,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_museo_de_arte_italiano_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5453,9 +5633,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_museo_de_arte_italiano_informacion_general"
     },
     {
       "relation": "contains",
@@ -5463,9 +5643,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_museo_de_arte_italiano_notas"
     },
     {
       "relation": "contains",
@@ -5473,9 +5653,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_museo_de_arte_italiano_precios"
     },
     {
       "relation": "contains",
@@ -5483,9 +5663,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_museo_de_arte_italiano_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_museo_de_arte_italiano_salas",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_museo_de_arte_italiano_salas"
     },
     {
       "relation": "contains",
@@ -5493,9 +5673,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_salas",
-      "target": "museo_de_arte_italiano_salas_salas_museo_de_arte_italiano",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_salas_salas_museo_de_arte_italiano"
     },
     {
       "relation": "contains",
@@ -5503,9 +5683,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_salas_salas_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -5513,9 +5693,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_salas_salas_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -5523,9 +5703,9 @@
       "source_file": "wiki/Lima/Museo de Arte Italiano/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_arte_italiano_salas_salas_museo_de_arte_italiano",
-      "target": "museo_de_arte_italiano_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_de_arte_italiano_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -5533,9 +5713,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac"
     },
     {
       "relation": "references",
@@ -5553,9 +5733,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_accesibilidad",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5563,9 +5743,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_informacion_general",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_informacion_general"
     },
     {
       "relation": "contains",
@@ -5573,9 +5753,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_notas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_notas"
     },
     {
       "relation": "contains",
@@ -5583,9 +5763,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_precios",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_precios"
     },
     {
       "relation": "contains",
@@ -5593,9 +5773,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_salas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac_salas"
     },
     {
       "relation": "contains",
@@ -5603,9 +5783,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_salas",
-      "target": "museo_de_sitio_pachacamac_salas_salas_museo_de_sitio_pachacamac",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_salas_salas_museo_de_sitio_pachacamac"
     },
     {
       "relation": "contains",
@@ -5613,9 +5793,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_salas_salas_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -5623,9 +5803,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_salas_salas_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -5633,9 +5813,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_salas_salas_museo_de_sitio_pachacamac",
-      "target": "museo_de_sitio_pachacamac_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -5643,9 +5823,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla"
     },
     {
       "relation": "contains",
@@ -5653,9 +5833,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Salas.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_horarios_por_sala",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_horarios_por_sala"
     },
     {
       "relation": "contains",
@@ -5663,9 +5843,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Salas.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_recorrido_recomendado",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_recorrido_recomendado"
     },
     {
       "relation": "contains",
@@ -5673,9 +5853,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Salas.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_\u00e1reas",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_salas_\u00e1reas"
     },
     {
       "relation": "contains",
@@ -5683,9 +5863,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla"
     },
     {
       "relation": "contains",
@@ -5693,9 +5873,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md",
       "source_location": "L38",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_accesibilidad",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5703,9 +5883,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_informaci\u00f3n_general",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_informaci\u00f3n_general"
     },
     {
       "relation": "contains",
@@ -5713,9 +5893,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md",
       "source_location": "L54",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_notas",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_notas"
     },
     {
       "relation": "contains",
@@ -5723,9 +5903,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md",
       "source_location": "L30",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_precios",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_precios"
     },
     {
       "relation": "contains",
@@ -5733,9 +5913,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md",
       "source_location": "L50",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_y_recorridos",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_zona_arqueol\u00e33gica_monumental_huayc\u00e3_n_de_cieneguilla_salas_y_recorridos"
     },
     {
       "relation": "contains",
@@ -5743,9 +5923,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla"
     },
     {
       "relation": "contains",
@@ -5753,9 +5933,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Salas.md",
       "source_location": "L3",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas_salas_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas_salas_areas",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas_salas_areas"
     },
     {
       "relation": "contains",
@@ -5763,9 +5943,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md",
       "source_location": "L14",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla"
     },
     {
       "relation": "references",
@@ -5783,9 +5963,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md",
       "source_location": "L34",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_accesibilidad",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_accesibilidad"
     },
     {
       "relation": "contains",
@@ -5793,9 +5973,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_informacion_general",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_informacion_general"
     },
     {
       "relation": "contains",
@@ -5803,9 +5983,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md",
       "source_location": "L48",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_notas",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_notas"
     },
     {
       "relation": "contains",
@@ -5813,9 +5993,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md",
       "source_location": "L27",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_precios",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_precios"
     },
     {
       "relation": "contains",
@@ -5823,9 +6003,9 @@
       "source_file": "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md",
       "source_location": "L44",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas",
-      "confidence_score": 1.0
+      "target": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas"
     },
     {
       "relation": "contains",
@@ -5833,9 +6013,9 @@
       "source_file": "wiki/Peru.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_peru",
-      "target": "wiki_peru_peru",
-      "confidence_score": 1.0
+      "target": "wiki_peru_peru"
     },
     {
       "relation": "contains",
@@ -5843,9 +6023,9 @@
       "source_file": "wiki/Peru.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_peru_peru",
-      "target": "wiki_peru_regiones",
-      "confidence_score": 1.0
+      "target": "wiki_peru_regiones"
     },
     {
       "relation": "contains",
@@ -5853,11 +6033,11 @@
       "source_file": "wiki/Peru.md",
       "source_location": "L22",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "wiki_peru_peru",
-      "target": "wiki_peru_total",
-      "confidence_score": 1.0
+      "target": "wiki_peru_total"
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "96d8ad7b0fa86cc1c9e44e001bd54ba062c33616"
+  "built_at_commit": "1631857c392cd99f238e1b89eb78e35b10783551"
 }

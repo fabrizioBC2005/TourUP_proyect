@@ -24,40 +24,50 @@
       "norm_label": "pipeline.py"
     },
     {
-      "label": "nombre_seguro()",
+      "label": "safe()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L14",
+      "source_location": "L10",
       "_origin": "ast",
-      "id": "pipeline_nombre_seguro",
+      "id": "pipeline_safe",
       "community": 13,
-      "norm_label": "nombre_seguro()"
+      "norm_label": "safe()"
     },
     {
-      "label": "icono()",
+      "label": "procesar_museos()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L20",
+      "source_location": "L15",
       "_origin": "ast",
-      "id": "pipeline_icono",
+      "id": "pipeline_procesar_museos",
       "community": 13,
-      "norm_label": "icono()"
+      "norm_label": "procesar_museos()"
     },
     {
-      "label": "procesar_csv()",
+      "label": "procesar_salas()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L26",
+      "source_location": "L114",
       "_origin": "ast",
-      "id": "pipeline_procesar_csv",
+      "id": "pipeline_procesar_salas",
       "community": 13,
-      "norm_label": "procesar_csv()"
+      "norm_label": "procesar_salas()"
+    },
+    {
+      "label": "procesar_actividades()",
+      "file_type": "code",
+      "source_file": "pipeline.py",
+      "source_location": "L157",
+      "_origin": "ast",
+      "id": "pipeline_procesar_actividades",
+      "community": 13,
+      "norm_label": "procesar_actividades()"
     },
     {
       "label": "actualizar_grafo()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L123",
+      "source_location": "L205",
       "_origin": "ast",
       "id": "pipeline_actualizar_grafo",
       "community": 13,
@@ -67,7 +77,7 @@
       "label": "InboxHandler",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L132",
+      "source_location": "L213",
       "_origin": "ast",
       "id": "pipeline_inboxhandler",
       "community": 13,
@@ -87,7 +97,7 @@
       "label": ".on_created()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L133",
+      "source_location": "L214",
       "_origin": "ast",
       "id": "pipeline_inboxhandler_on_created",
       "community": 13,
@@ -104,70 +114,80 @@
       "norm_label": "claude.md"
     },
     {
-      "label": "Rol",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "claude_rol",
-      "community": 11,
-      "norm_label": "rol"
-    },
-    {
-      "label": "Graphify: memoria central del proyecto",
+      "label": "Graphify: memoria central",
       "file_type": "document",
       "source_file": "CLAUDE.md",
       "source_location": "L5",
       "_origin": "ast",
-      "id": "claude_graphify_memoria_central_del_proyecto",
+      "id": "claude_graphify_memoria_central",
       "community": 11,
-      "norm_label": "graphify: memoria central del proyecto"
+      "norm_label": "graphify: memoria central"
     },
     {
-      "label": "Regla principal de contexto",
+      "label": "Regla principal",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L11",
+      "source_location": "L9",
       "_origin": "ast",
-      "id": "claude_regla_principal_de_contexto",
+      "id": "claude_regla_principal",
       "community": 11,
-      "norm_label": "regla principal de contexto"
+      "norm_label": "regla principal"
     },
     {
-      "label": "Modelo de contenido y grafo",
+      "label": "Modelo de grafo \u2014 6 niveles",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L22",
+      "source_location": "L15",
       "_origin": "ast",
-      "id": "claude_modelo_de_contenido_y_grafo",
+      "id": "claude_modelo_de_grafo_6_niveles",
       "community": 11,
-      "norm_label": "modelo de contenido y grafo"
+      "norm_label": "modelo de grafo \u2014 6 niveles"
+    },
+    {
+      "label": "Colecciones",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L23",
+      "_origin": "ast",
+      "id": "claude_colecciones",
+      "community": 11,
+      "norm_label": "colecciones"
+    },
+    {
+      "label": "Relaciones clave que debes analizar",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L28",
+      "_origin": "ast",
+      "id": "claude_relaciones_clave_que_debes_analizar",
+      "community": 11,
+      "norm_label": "relaciones clave que debes analizar"
+    },
+    {
+      "label": "Frontmatter por tipo",
+      "file_type": "document",
+      "source_file": "CLAUDE.md",
+      "source_location": "L35",
+      "_origin": "ast",
+      "id": "claude_frontmatter_por_tipo",
+      "community": 11,
+      "norm_label": "frontmatter por tipo"
     },
     {
       "label": "Estructura del vault",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L44",
+      "source_location": "L41",
       "_origin": "ast",
       "id": "claude_estructura_del_vault",
       "community": 11,
       "norm_label": "estructura del vault"
     },
     {
-      "label": "Lo que debes evitar",
-      "file_type": "document",
-      "source_file": "CLAUDE.md",
-      "source_location": "L50",
-      "_origin": "ast",
-      "id": "claude_lo_que_debes_evitar",
-      "community": 11,
-      "norm_label": "lo que debes evitar"
-    },
-    {
       "label": "Flujo ideal",
       "file_type": "document",
       "source_file": "CLAUDE.md",
-      "source_location": "L55",
+      "source_location": "L47",
       "_origin": "ast",
       "id": "claude_flujo_ideal",
       "community": 11,
@@ -524,106 +544,6 @@
       "norm_label": "horarios por sala"
     },
     {
-      "label": "Museo de Prueba TourUP.md",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "community": 39,
-      "norm_label": "museo de prueba tourup.md"
-    },
-    {
-      "label": "Museo de Prueba TourUP",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L14",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "community": 39,
-      "norm_label": "museo de prueba tourup"
-    },
-    {
-      "label": "Informacion general",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L18",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_informacion_general",
-      "community": 39,
-      "norm_label": "informacion general"
-    },
-    {
-      "label": "Precios",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L27",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_precios",
-      "community": 39,
-      "norm_label": "precios"
-    },
-    {
-      "label": "Accesibilidad",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L34",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_accesibilidad",
-      "community": 39,
-      "norm_label": "accesibilidad"
-    },
-    {
-      "label": "Salas",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L44",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_salas",
-      "community": 39,
-      "norm_label": "salas"
-    },
-    {
-      "label": "Notas",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L48",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_museo_de_prueba_tourup_notas",
-      "community": 39,
-      "norm_label": "notas"
-    },
-    {
-      "label": "Salas.md",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_salas",
-      "community": 40,
-      "norm_label": "salas.md"
-    },
-    {
-      "label": "Salas - Museo de Prueba TourUP",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_salas_salas_museo_de_prueba_tourup",
-      "community": 40,
-      "norm_label": "salas - museo de prueba tourup"
-    },
-    {
-      "label": "Salas / Areas",
-      "file_type": "document",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
-      "source_location": "L3",
-      "_origin": "ast",
-      "id": "museo_de_prueba_tourup_salas_salas_areas",
-      "community": 40,
-      "norm_label": "salas / areas"
-    },
-    {
       "label": "00 - Ica.md",
       "file_type": "document",
       "source_file": "wiki/Ica/00 - Ica.md",
@@ -880,7 +800,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "la_libertad_00_la_libertad",
-      "community": 2,
+      "community": 0,
       "norm_label": "00 - la libertad.md"
     },
     {
@@ -890,7 +810,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "la_libertad_00_la_libertad_la_libertad",
-      "community": 2,
+      "community": 0,
       "norm_label": "\ud83d\udccd la libertad"
     },
     {
@@ -900,7 +820,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "la_libertad_00_la_libertad_listado",
-      "community": 2,
+      "community": 0,
       "norm_label": "listado"
     },
     {
@@ -1030,7 +950,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "community": 38,
+      "community": 0,
       "norm_label": "complejo arqueologico chan chan \u2013 museo de sitio.md"
     },
     {
@@ -1040,7 +960,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio",
-      "community": 38,
+      "community": 0,
       "norm_label": "complejo arqueologico chan chan \u2013 museo de sitio"
     },
     {
@@ -1050,7 +970,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_informacion_general",
-      "community": 38,
+      "community": 0,
       "norm_label": "informacion general"
     },
     {
@@ -1060,7 +980,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_precios",
-      "community": 38,
+      "community": 0,
       "norm_label": "precios"
     },
     {
@@ -1070,7 +990,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_accesibilidad",
-      "community": 38,
+      "community": 0,
       "norm_label": "accesibilidad"
     },
     {
@@ -1080,7 +1000,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_salas",
-      "community": 38,
+      "community": 0,
       "norm_label": "salas"
     },
     {
@@ -1090,7 +1010,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_complejo_arqueol\u00f3gico_chan_chan_museo_de_sitio_notas",
-      "community": 38,
+      "community": 0,
       "norm_label": "notas"
     },
     {
@@ -1372,6 +1292,86 @@
       "id": "lambayeque_00_lambayeque_listado",
       "community": 1,
       "norm_label": "listado"
+    },
+    {
+      "label": "Sala Descubrimiento.md",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_descubrimiento",
+      "community": 41,
+      "norm_label": "sala descubrimiento.md"
+    },
+    {
+      "label": "Sala Descubrimiento",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
+      "community": 41,
+      "norm_label": "sala descubrimiento"
+    },
+    {
+      "label": "Informacion",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_descubrimiento_informacion",
+      "community": 41,
+      "norm_label": "informacion"
+    },
+    {
+      "label": "Actividades en esta sala",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_descubrimiento_actividades_en_esta_sala",
+      "community": 41,
+      "norm_label": "actividades en esta sala"
+    },
+    {
+      "label": "Sala Principal.md",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_principal",
+      "community": 42,
+      "norm_label": "sala principal.md"
+    },
+    {
+      "label": "Sala Principal",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
+      "community": 42,
+      "norm_label": "sala principal"
+    },
+    {
+      "label": "Informacion",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_principal_informacion",
+      "community": 42,
+      "norm_label": "informacion"
+    },
+    {
+      "label": "Actividades en esta sala",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_sala_principal_actividades_en_esta_sala",
+      "community": 42,
+      "norm_label": "actividades en esta sala"
     },
     {
       "label": "Museo Tumbas Reales de Sip\u00c3\u00a1n.md",
@@ -1970,7 +1970,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_00_lima",
-      "community": 10,
+      "community": 4,
       "norm_label": "00 - lima.md"
     },
     {
@@ -1980,7 +1980,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_00_lima_lima",
-      "community": 10,
+      "community": 4,
       "norm_label": "\ud83d\udccd lima"
     },
     {
@@ -1990,7 +1990,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "lima_00_lima_listado",
-      "community": 10,
+      "community": 4,
       "norm_label": "listado"
     },
     {
@@ -2744,6 +2744,126 @@
       "norm_label": "notas"
     },
     {
+      "label": "Sala Ichma.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_ichma",
+      "community": 38,
+      "norm_label": "sala ichma.md"
+    },
+    {
+      "label": "Sala Ichma",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
+      "community": 38,
+      "norm_label": "sala ichma"
+    },
+    {
+      "label": "Informacion",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_ichma_informacion",
+      "community": 38,
+      "norm_label": "informacion"
+    },
+    {
+      "label": "Actividades en esta sala",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_ichma_actividades_en_esta_sala",
+      "community": 38,
+      "norm_label": "actividades en esta sala"
+    },
+    {
+      "label": "Sala Inca.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_inca",
+      "community": 39,
+      "norm_label": "sala inca.md"
+    },
+    {
+      "label": "Sala Inca",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
+      "community": 39,
+      "norm_label": "sala inca"
+    },
+    {
+      "label": "Informacion",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_inca_informacion",
+      "community": 39,
+      "norm_label": "informacion"
+    },
+    {
+      "label": "Actividades en esta sala",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_inca_actividades_en_esta_sala",
+      "community": 39,
+      "norm_label": "actividades en esta sala"
+    },
+    {
+      "label": "Sala Wari.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_wari",
+      "community": 40,
+      "norm_label": "sala wari.md"
+    },
+    {
+      "label": "Sala Wari",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
+      "community": 40,
+      "norm_label": "sala wari"
+    },
+    {
+      "label": "Informacion",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_wari_informacion",
+      "community": 40,
+      "norm_label": "informacion"
+    },
+    {
+      "label": "Actividades en esta sala",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_sala_wari_actividades_en_esta_sala",
+      "community": 40,
+      "norm_label": "actividades en esta sala"
+    },
+    {
       "label": "Salas.md",
       "file_type": "document",
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Salas.md",
@@ -2950,7 +3070,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "community": 10,
+      "community": 4,
       "norm_label": "zona arqueologica monumental huaycan de cieneguilla.md"
     },
     {
@@ -2960,7 +3080,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla",
-      "community": 10,
+      "community": 4,
       "norm_label": "zona arqueologica monumental huaycan de cieneguilla"
     },
     {
@@ -2970,7 +3090,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_informacion_general",
-      "community": 10,
+      "community": 4,
       "norm_label": "informacion general"
     },
     {
@@ -2980,7 +3100,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_precios",
-      "community": 10,
+      "community": 4,
       "norm_label": "precios"
     },
     {
@@ -2990,7 +3110,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_accesibilidad",
-      "community": 10,
+      "community": 4,
       "norm_label": "accesibilidad"
     },
     {
@@ -3000,7 +3120,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_salas",
-      "community": 10,
+      "community": 4,
       "norm_label": "salas"
     },
     {
@@ -3010,7 +3130,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_zona_arqueol\u00f3gica_monumental_huayc\u00e1n_de_cieneguilla_notas",
-      "community": 10,
+      "community": 4,
       "norm_label": "notas"
     },
     {
@@ -3062,7 +3182,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 38,
+      "community": 0,
       "norm_label": "salas \u2014 complejo arqueologico chan chan \u2013 museo de sitio",
       "id": "complejo_arqueologico_chan_chan_museo_de_sitio_salas"
     },
@@ -3127,7 +3247,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 10,
+      "community": 4,
       "norm_label": "salas \u2014 zona arqueologica monumental huaycan de cieneguilla",
       "id": "zona_arqueologica_monumental_huaycan_de_cieneguilla_salas"
     }
@@ -3147,16 +3267,6 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L20",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "pipeline",
-      "target": "pipeline_icono"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "pipeline.py",
       "source_location": "L132",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -3167,65 +3277,118 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L14",
+      "source_location": "L157",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_nombre_seguro"
+      "target": "pipeline_procesar_actividades",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L26",
+      "source_location": "L15",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_procesar_csv"
+      "target": "pipeline_procesar_museos",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "pipeline",
+      "target": "pipeline_procesar_salas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "pipeline",
+      "target": "pipeline_safe",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "context": "call",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L31",
+      "source_location": "L161",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "pipeline_procesar_csv",
-      "target": "pipeline_nombre_seguro"
+      "source": "pipeline_procesar_actividades",
+      "target": "pipeline_safe",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "context": "call",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L86",
+      "source_location": "L19",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "pipeline_procesar_csv",
-      "target": "pipeline_icono"
+      "source": "pipeline_procesar_museos",
+      "target": "pipeline_safe",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "context": "call",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L139",
+      "source_location": "L118",
       "weight": 1.0,
-      "confidence_score": 1.0,
+      "source": "pipeline_procesar_salas",
+      "target": "pipeline_safe",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L222",
+      "weight": 1.0,
       "source": "pipeline_inboxhandler_on_created",
-      "target": "pipeline_procesar_csv"
+      "target": "pipeline_procesar_museos",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
       "context": "call",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
-      "source_location": "L121",
+      "source_location": "L220",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "pipeline_procesar_csv",
-      "target": "pipeline_actualizar_grafo"
+      "source": "pipeline_inboxhandler_on_created",
+      "target": "pipeline_procesar_salas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L221",
+      "weight": 1.0,
+      "source": "pipeline_inboxhandler_on_created",
+      "target": "pipeline_procesar_actividades",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L223",
+      "weight": 1.0,
+      "source": "pipeline_inboxhandler_on_created",
+      "target": "pipeline_actualizar_grafo",
+      "confidence_score": 1.0
     },
     {
       "relation": "inherits",
@@ -3251,6 +3414,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "source": "claude",
+      "target": "claude_colecciones",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
       "source_location": "L44",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -3271,51 +3444,51 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "claude",
+      "target": "claude_frontmatter_por_tipo",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CLAUDE.md",
       "source_location": "L5",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_graphify_memoria_central_del_proyecto"
+      "target": "claude_graphify_memoria_central",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L50",
+      "source_location": "L15",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_lo_que_debes_evitar"
+      "target": "claude_modelo_de_grafo_6_niveles",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L22",
+      "source_location": "L28",
       "weight": 1.0,
-      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_modelo_de_contenido_y_grafo"
+      "target": "claude_relaciones_clave_que_debes_analizar",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CLAUDE.md",
-      "source_location": "L1",
+      "source_location": "L9",
       "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "claude",
-      "target": "claude_rol"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "CLAUDE.md",
-      "source_location": "L11",
-      "weight": 1.0,
-      "confidence_score": 1.0,
-      "source": "claude_graphify_memoria_central_del_proyecto",
-      "target": "claude_regla_principal_de_contexto"
+      "source": "claude_graphify_memoria_central",
+      "target": "claude_regla_principal",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -3696,86 +3869,6 @@
       "confidence_score": 1.0,
       "source": "museo_de_sitio_de_quinua_salas_salas_museo_de_sitio_de_quinua",
       "target": "museo_de_sitio_de_quinua_salas_salas_\u00e1reas"
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L34",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_accesibilidad",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L18",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_informacion_general",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L48",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_notas",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L27",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_precios",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
-      "source_location": "L44",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_museo_de_prueba_tourup_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_museo_de_prueba_tourup_salas",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
-      "source_location": "L1",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_salas",
-      "target": "museo_de_prueba_tourup_salas_salas_museo_de_prueba_tourup",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
-      "source_location": "L3",
-      "weight": 1.0,
-      "source": "museo_de_prueba_tourup_salas_salas_museo_de_prueba_tourup",
-      "target": "museo_de_prueba_tourup_salas_salas_areas",
-      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -4486,6 +4579,66 @@
       "confidence_score": 1.0,
       "source": "lambayeque_00_lambayeque_lambayeque",
       "target": "lambayeque_00_lambayeque_listado"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_sala_descubrimiento",
+      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
+      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_actividades_en_esta_sala",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
+      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_informacion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_sala_principal",
+      "target": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
+      "target": "museo_tumbas_reales_de_sipan_sala_principal_actividades_en_esta_sala",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
+      "target": "museo_tumbas_reales_de_sipan_sala_principal_informacion",
+      "confidence_score": 1.0
     },
     {
       "relation": "contains",
@@ -5780,6 +5933,96 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_ichma",
+      "target": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
+      "target": "museo_de_sitio_pachacamac_sala_ichma_actividades_en_esta_sala",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
+      "target": "museo_de_sitio_pachacamac_sala_ichma_informacion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_inca",
+      "target": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
+      "target": "museo_de_sitio_pachacamac_sala_inca_actividades_en_esta_sala",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
+      "target": "museo_de_sitio_pachacamac_sala_inca_informacion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_wari",
+      "target": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L24",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
+      "target": "museo_de_sitio_pachacamac_sala_wari_actividades_en_esta_sala",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
+      "target": "museo_de_sitio_pachacamac_sala_wari_informacion",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Salas.md",
       "source_location": "L1",
       "weight": 1.0,
@@ -6039,5 +6282,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "1631857c392cd99f238e1b89eb78e35b10783551"
+  "built_at_commit": "63a77f161042c1737261d9e3e0009ecf35b74693"
 }
