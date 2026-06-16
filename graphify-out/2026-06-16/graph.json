@@ -47,7 +47,7 @@
       "label": "procesar_salas()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L114",
+      "source_location": "L96",
       "_origin": "ast",
       "id": "pipeline_procesar_salas",
       "community": 13,
@@ -57,17 +57,27 @@
       "label": "procesar_actividades()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L157",
+      "source_location": "L133",
       "_origin": "ast",
       "id": "pipeline_procesar_actividades",
       "community": 13,
       "norm_label": "procesar_actividades()"
     },
     {
+      "label": "procesar_fechas()",
+      "file_type": "code",
+      "source_file": "pipeline.py",
+      "source_location": "L178",
+      "_origin": "ast",
+      "id": "pipeline_procesar_fechas",
+      "community": 13,
+      "norm_label": "procesar_fechas()"
+    },
+    {
       "label": "actualizar_grafo()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L205",
+      "source_location": "L226",
       "_origin": "ast",
       "id": "pipeline_actualizar_grafo",
       "community": 13,
@@ -77,7 +87,7 @@
       "label": "InboxHandler",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L213",
+      "source_location": "L234",
       "_origin": "ast",
       "id": "pipeline_inboxhandler",
       "community": 13,
@@ -97,7 +107,7 @@
       "label": ".on_created()",
       "file_type": "code",
       "source_file": "pipeline.py",
-      "source_location": "L214",
+      "source_location": "L235",
       "_origin": "ast",
       "id": "pipeline_inboxhandler_on_created",
       "community": 13,
@@ -200,7 +210,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "tourup_proyect",
-      "community": 0,
+      "community": 2,
       "norm_label": "tourup_proyect.md"
     },
     {
@@ -210,7 +220,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "tourup_proyect_tourup_proyect",
-      "community": 0,
+      "community": 2,
       "norm_label": "\ud83d\uddfa\ufe0f tourup_proyect"
     },
     {
@@ -220,7 +230,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "tourup_proyect_qu\u00e9_es_este_vault",
-      "community": 0,
+      "community": 2,
       "norm_label": "\u00bfque es este vault?"
     },
     {
@@ -230,7 +240,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "tourup_proyect_estructura",
-      "community": 0,
+      "community": 2,
       "norm_label": "estructura"
     },
     {
@@ -240,7 +250,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "tourup_proyect_regiones",
-      "community": 0,
+      "community": 2,
       "norm_label": "regiones"
     },
     {
@@ -250,7 +260,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "tourup_proyect_total",
-      "community": 0,
+      "community": 2,
       "norm_label": "total"
     },
     {
@@ -400,7 +410,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ayacucho_00_ayacucho",
-      "community": 37,
+      "community": 2,
       "norm_label": "00 - ayacucho.md"
     },
     {
@@ -410,7 +420,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ayacucho_00_ayacucho_ayacucho",
-      "community": 37,
+      "community": 2,
       "norm_label": "\ud83d\udccd ayacucho"
     },
     {
@@ -420,7 +430,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "ayacucho_00_ayacucho_listado",
-      "community": 37,
+      "community": 2,
       "norm_label": "listado"
     },
     {
@@ -550,7 +560,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ica_00_ica",
-      "community": 7,
+      "community": 2,
       "norm_label": "00 - ica.md"
     },
     {
@@ -560,7 +570,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ica_00_ica_ica",
-      "community": 7,
+      "community": 2,
       "norm_label": "\ud83d\udccd ica"
     },
     {
@@ -570,7 +580,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "ica_00_ica_listado",
-      "community": 7,
+      "community": 2,
       "norm_label": "listado"
     },
     {
@@ -1170,7 +1180,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "community": 2,
+      "community": 0,
       "norm_label": "huacas de moche \u2013 museo de sitio huaca de la luna.md"
     },
     {
@@ -1180,7 +1190,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "community": 2,
+      "community": 0,
       "norm_label": "huacas de moche \u2013 museo de sitio huaca de la luna"
     },
     {
@@ -1190,7 +1200,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_informacion_general",
-      "community": 2,
+      "community": 0,
       "norm_label": "informacion general"
     },
     {
@@ -1200,7 +1210,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_precios",
-      "community": 2,
+      "community": 0,
       "norm_label": "precios"
     },
     {
@@ -1210,7 +1220,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_accesibilidad",
-      "community": 2,
+      "community": 0,
       "norm_label": "accesibilidad"
     },
     {
@@ -1220,7 +1230,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
-      "community": 2,
+      "community": 0,
       "norm_label": "salas"
     },
     {
@@ -1230,7 +1240,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_notas",
-      "community": 2,
+      "community": 0,
       "norm_label": "notas"
     },
     {
@@ -1240,7 +1250,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
-      "community": 2,
+      "community": 0,
       "norm_label": "salas.md"
     },
     {
@@ -1250,7 +1260,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "community": 2,
+      "community": 0,
       "norm_label": "salas - huacas de moche \u2013 museo de sitio huaca de la luna"
     },
     {
@@ -1260,7 +1270,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_areas",
-      "community": 2,
+      "community": 0,
       "norm_label": "salas / areas"
     },
     {
@@ -1322,6 +1332,26 @@
       "id": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_detalles",
       "community": 46,
       "norm_label": "detalles"
+    },
+    {
+      "label": "Fecha \u2014 2025-07-20 \u2014 Visita nocturna accesible.md",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Fecha \u2014 2025-07-20 \u2014 Visita nocturna accesible.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_fecha_2025_07_20_visita_nocturna_accesible",
+      "community": 49,
+      "norm_label": "fecha \u2014 2025-07-20 \u2014 visita nocturna accesible.md"
+    },
+    {
+      "label": "2025-07-20 \u2014 Visita nocturna accesible",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Fecha \u2014 2025-07-20 \u2014 Visita nocturna accesible.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_fecha_2025_07_20_visita_nocturna_accesible_2025_07_20_visita_nocturna_accesible",
+      "community": 49,
+      "norm_label": "2025-07-20 \u2014 visita nocturna accesible"
     },
     {
       "label": "Sala Descubrimiento.md",
@@ -1850,7 +1880,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_barranca_00_lima_barranca",
-      "community": 3,
+      "community": 2,
       "norm_label": "00 - lima barranca.md"
     },
     {
@@ -1860,7 +1890,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_barranca_00_lima_barranca_lima_barranca",
-      "community": 3,
+      "community": 2,
       "norm_label": "\ud83d\udccd lima barranca"
     },
     {
@@ -1870,7 +1900,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "lima_barranca_00_lima_barranca_listado",
-      "community": 3,
+      "community": 2,
       "norm_label": "listado"
     },
     {
@@ -2370,7 +2400,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "community": 9,
+      "community": 4,
       "norm_label": "museo nacional de arqueologia antropologia e historia del peru (mnaahp).md"
     },
     {
@@ -2380,7 +2410,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp",
-      "community": 9,
+      "community": 4,
       "norm_label": "museo nacional de arqueologia antropologia e historia del peru (mnaahp)"
     },
     {
@@ -2390,7 +2420,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_informacion_general",
-      "community": 9,
+      "community": 4,
       "norm_label": "informacion general"
     },
     {
@@ -2400,7 +2430,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_precios",
-      "community": 9,
+      "community": 4,
       "norm_label": "precios"
     },
     {
@@ -2410,7 +2440,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_accesibilidad",
-      "community": 9,
+      "community": 4,
       "norm_label": "accesibilidad"
     },
     {
@@ -2420,7 +2450,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_salas",
-      "community": 9,
+      "community": 4,
       "norm_label": "salas"
     },
     {
@@ -2430,7 +2460,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_museo_nacional_de_arqueolog\u00eda_antropolog\u00eda_e_historia_del_per\u00fa_mnaahp_notas",
-      "community": 9,
+      "community": 4,
       "norm_label": "notas"
     },
     {
@@ -2792,6 +2822,66 @@
       "id": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_detalles",
       "community": 45,
       "norm_label": "detalles"
+    },
+    {
+      "label": "Fecha \u2014 2025-07-15 \u2014 Visita guiada inclusiva.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-15 \u2014 Visita guiada inclusiva.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_fecha_2025_07_15_visita_guiada_inclusiva",
+      "community": 9,
+      "norm_label": "fecha \u2014 2025-07-15 \u2014 visita guiada inclusiva.md"
+    },
+    {
+      "label": "2025-07-15 \u2014 Visita guiada inclusiva",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-15 \u2014 Visita guiada inclusiva.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_fecha_2025_07_15_visita_guiada_inclusiva_2025_07_15_visita_guiada_inclusiva",
+      "community": 9,
+      "norm_label": "2025-07-15 \u2014 visita guiada inclusiva"
+    },
+    {
+      "label": "Fecha \u2014 2025-07-22 \u2014 Visita guiada inclusiva.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-22 \u2014 Visita guiada inclusiva.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_fecha_2025_07_22_visita_guiada_inclusiva",
+      "community": 47,
+      "norm_label": "fecha \u2014 2025-07-22 \u2014 visita guiada inclusiva.md"
+    },
+    {
+      "label": "2025-07-22 \u2014 Visita guiada inclusiva",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-22 \u2014 Visita guiada inclusiva.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_fecha_2025_07_22_visita_guiada_inclusiva_2025_07_22_visita_guiada_inclusiva",
+      "community": 47,
+      "norm_label": "2025-07-22 \u2014 visita guiada inclusiva"
+    },
+    {
+      "label": "Fecha \u2014 2025-08-01 \u2014 Taller de ceramica.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-08-01 \u2014 Taller de ceramica.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_fecha_2025_08_01_taller_de_ceramica",
+      "community": 48,
+      "norm_label": "fecha \u2014 2025-08-01 \u2014 taller de ceramica.md"
+    },
+    {
+      "label": "2025-08-01 \u2014 Taller de ceramica",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-08-01 \u2014 Taller de ceramica.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_fecha_2025_08_01_taller_de_ceramica_2025_08_01_taller_de_ceramica",
+      "community": 48,
+      "norm_label": "2025-08-01 \u2014 taller de ceramica"
     },
     {
       "label": "Museo de Sitio Pachacamac.md",
@@ -3260,7 +3350,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "wiki_peru",
-      "community": 7,
+      "community": 2,
       "norm_label": "peru.md"
     },
     {
@@ -3270,7 +3360,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "wiki_peru_peru",
-      "community": 7,
+      "community": 2,
       "norm_label": "peru"
     },
     {
@@ -3280,7 +3370,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "wiki_peru_regiones",
-      "community": 7,
+      "community": 2,
       "norm_label": "regiones"
     },
     {
@@ -3290,7 +3380,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "wiki_peru_total",
-      "community": 7,
+      "community": 2,
       "norm_label": "total"
     },
     {
@@ -3354,7 +3444,7 @@
       "captured_at": null,
       "author": null,
       "contributor": null,
-      "community": 9,
+      "community": 4,
       "norm_label": "salas \u2014 museo nacional de arqueologia antropologia e historia del peru (mnaahp)",
       "id": "museo_nacional_de_arqueologia_antropologia_e_historia_del_peru_mnaahp_salas"
     },
@@ -3407,6 +3497,16 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "pipeline.py",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "pipeline",
+      "target": "pipeline_procesar_fechas",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
       "source_location": "L15",
       "weight": 1.0,
       "confidence_score": 1.0,
@@ -3443,6 +3543,17 @@
       "confidence_score": 1.0,
       "source": "pipeline_procesar_actividades",
       "target": "pipeline_safe"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L182",
+      "weight": 1.0,
+      "source": "pipeline_procesar_fechas",
+      "target": "pipeline_safe",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -3498,6 +3609,17 @@
       "confidence_score": 1.0,
       "source": "pipeline_inboxhandler_on_created",
       "target": "pipeline_procesar_actividades"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "pipeline.py",
+      "source_location": "L241",
+      "weight": 1.0,
+      "source": "pipeline_inboxhandler_on_created",
+      "target": "pipeline_procesar_fechas",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -4706,9 +4828,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible",
-      "target": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_visita_nocturna_accesible",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_visita_nocturna_accesible"
     },
     {
       "relation": "contains",
@@ -4716,8 +4838,18 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_visita_nocturna_accesible",
-      "target": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_detalles",
+      "target": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_detalles"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Fecha \u2014 2025-07-20 \u2014 Visita nocturna accesible.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_fecha_2025_07_20_visita_nocturna_accesible",
+      "target": "museo_tumbas_reales_de_sipan_fecha_2025_07_20_visita_nocturna_accesible_2025_07_20_visita_nocturna_accesible",
       "confidence_score": 1.0
     },
     {
@@ -6006,9 +6138,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari",
-      "target": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_exposicion_temporal_wari",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_exposicion_temporal_wari"
     },
     {
       "relation": "contains",
@@ -6016,9 +6148,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_exposicion_temporal_wari",
-      "target": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_detalles",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_detalles"
     },
     {
       "relation": "contains",
@@ -6026,9 +6158,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica",
-      "target": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_taller_de_ceramica",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_taller_de_ceramica"
     },
     {
       "relation": "contains",
@@ -6036,9 +6168,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_taller_de_ceramica",
-      "target": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_detalles",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_detalles"
     },
     {
       "relation": "contains",
@@ -6046,9 +6178,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
       "source_location": "L16",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva",
-      "target": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_visita_guiada_inclusiva",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_visita_guiada_inclusiva"
     },
     {
       "relation": "contains",
@@ -6056,8 +6188,38 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
       "source_location": "L18",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_visita_guiada_inclusiva",
-      "target": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_detalles",
+      "target": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_detalles"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-15 \u2014 Visita guiada inclusiva.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_fecha_2025_07_15_visita_guiada_inclusiva",
+      "target": "museo_de_sitio_pachacamac_fecha_2025_07_15_visita_guiada_inclusiva_2025_07_15_visita_guiada_inclusiva",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-22 \u2014 Visita guiada inclusiva.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_fecha_2025_07_22_visita_guiada_inclusiva",
+      "target": "museo_de_sitio_pachacamac_fecha_2025_07_22_visita_guiada_inclusiva_2025_07_22_visita_guiada_inclusiva",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-08-01 \u2014 Taller de ceramica.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_fecha_2025_08_01_taller_de_ceramica",
+      "target": "museo_de_sitio_pachacamac_fecha_2025_08_01_taller_de_ceramica_2025_08_01_taller_de_ceramica",
       "confidence_score": 1.0
     },
     {
@@ -6482,5 +6644,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "2328c604c2b21f2fe6e565c0e089c455423a2e02"
+  "built_at_commit": "34a414ae87ddf3b7960aae831788d846206c7d28"
 }

@@ -1,8 +1,7 @@
-# Graph Report - TourUP_proyect  (2026-06-16)
+# Graph Report - C:\Users\USER\Desktop\TourUP_proyect  (2026-06-16)
 
 ## Corpus Check
-- 73 files · ~10,031 words
-- Verdict: corpus is large enough that graph structure adds value.
+- cluster-only mode — file stats not available
 
 ## Summary
 - 344 nodes · 317 edges · 50 communities (36 shown, 14 thin omitted)
@@ -10,7 +9,7 @@
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `34a414ae`
+- Built from commit: `4f05623d`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
