@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Museo de Arte Italiano]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

@@ -4,12 +4,12 @@
 - cluster-only mode — file stats not available
 
 ## Summary
-- 344 nodes · 317 edges · 50 communities (36 shown, 14 thin omitted)
+- 330 nodes · 329 edges · 34 communities (29 shown, 5 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `4f05623d`
+- Built from commit: `314d60ac`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -26,6 +26,7 @@
 - [[_COMMUNITY_Community 9|Community 9]]
 - [[_COMMUNITY_Community 10|Community 10]]
 - [[_COMMUNITY_Community 11|Community 11]]
+- [[_COMMUNITY_Community 12|Community 12]]
 - [[_COMMUNITY_Community 13|Community 13]]
 - [[_COMMUNITY_Community 14|Community 14]]
 - [[_COMMUNITY_Community 15|Community 15]]
@@ -46,212 +47,167 @@
 - [[_COMMUNITY_Community 30|Community 30]]
 - [[_COMMUNITY_Community 31|Community 31]]
 - [[_COMMUNITY_Community 32|Community 32]]
-- [[_COMMUNITY_Community 33|Community 33]]
-- [[_COMMUNITY_Community 34|Community 34]]
-- [[_COMMUNITY_Community 35|Community 35]]
-- [[_COMMUNITY_Community 36|Community 36]]
-- [[_COMMUNITY_Community 37|Community 37]]
-- [[_COMMUNITY_Community 38|Community 38]]
-- [[_COMMUNITY_Community 39|Community 39]]
-- [[_COMMUNITY_Community 40|Community 40]]
-- [[_COMMUNITY_Community 41|Community 41]]
-- [[_COMMUNITY_Community 42|Community 42]]
-- [[_COMMUNITY_Community 43|Community 43]]
-- [[_COMMUNITY_Community 44|Community 44]]
-- [[_COMMUNITY_Community 45|Community 45]]
-- [[_COMMUNITY_Community 46|Community 46]]
-- [[_COMMUNITY_Community 47|Community 47]]
-- [[_COMMUNITY_Community 48|Community 48]]
-- [[_COMMUNITY_Community 49|Community 49]]
 
 ## God Nodes (most connected - your core abstractions)
 1. `🗺️ TourUP_proyect` - 11 edges
-2. `Peru` - 9 edges
-3. `Complejo Arqueológico Chan Chan – Museo de Sitio` - 8 edges
-4. `Museo Tumbas Reales de Sipán` - 8 edges
-5. `Museo de Sitio Huaca Rajada – Sipán` - 8 edges
-6. `Complejo Arqueológico Mateo Salado` - 8 edges
-7. `Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)` - 8 edges
-8. `Zona Arqueológica Monumental Huaycán de Cieneguilla` - 8 edges
+2. `Museo Tumbas Reales de Sipán` - 10 edges
+3. `Peru` - 10 edges
+4. `Complejo Arqueológico Chan Chan – Museo de Sitio` - 9 edges
+5. `Museo de Sitio Huaca Rajada – Sipán` - 9 edges
+6. `Complejo Arqueológico Mateo Salado` - 9 edges
+7. `Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)` - 9 edges
+8. `Zona Arqueológica Monumental Huaycán de Cieneguilla` - 9 edges
 9. `Por región` - 7 edges
 10. `Museo de Sitio de Quinua` - 6 edges
 
 ## Surprising Connections (you probably didn't know these)
-- `Complejo Arqueológico Chan Chan – Museo de Sitio` --references--> `Salas — Complejo Arqueológico Chan Chan – Museo de Sitio`  [EXTRACTED]
-  wiki/La Libertad/Complejo Arqueológico Chan Chan – Museo de Sitio/Complejo Arqueológico Chan Chan – Museo de Sitio.md → wiki/La Libertad/Complejo Arqueológico Chan Chan – Museo de Sitio/Salas.md
-- `Museo Tumbas Reales de Sipán` --references--> `Salas — Museo Tumbas Reales de Sipán`  [EXTRACTED]
-  wiki/Lambayeque/Museo Tumbas Reales de Sipán/Museo Tumbas Reales de Sipán.md → wiki/Lambayeque/Museo Tumbas Reales de Sipán/Salas.md
-- `Museo de Sitio Huaca Rajada – Sipán` --references--> `Salas — Museo de Sitio Huaca Rajada – Sipán`  [EXTRACTED]
-  wiki/Lambayeque/Museo de Sitio Huaca Rajada – Sipán/Museo de Sitio Huaca Rajada – Sipán.md → wiki/Lambayeque/Museo de Sitio Huaca Rajada – Sipán/Salas.md
-- `Complejo Arqueológico Mateo Salado` --references--> `Salas — Complejo Arqueológico Mateo Salado`  [EXTRACTED]
-  wiki/Lima/Complejo Arqueológico Mateo Salado/Complejo Arqueológico Mateo Salado.md → wiki/Lima/Complejo Arqueológico Mateo Salado/Salas.md
-- `Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)` --references--> `Salas — Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)`  [EXTRACTED]
-  wiki/Lima/Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)/Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP).md → wiki/Lima/Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)/Salas.md
+- `Museo de Sitio Huaca Rajada – Sipán` --references--> `Lambayeque`  [EXTRACTED]
+  wiki/Lambayeque/Museo de Sitio Huaca Rajada – Sipán/Museo de Sitio Huaca Rajada – Sipán.md → wiki/Lambayeque/Museo Tumbas Reales de Sipán/Museo Tumbas Reales de Sipán.md
+- `Complejo Arqueológico Mateo Salado` --references--> `Lima`  [EXTRACTED]
+  wiki/Lima/Complejo Arqueológico Mateo Salado/Complejo Arqueológico Mateo Salado.md → wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md
+- `Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)` --references--> `Lima`  [EXTRACTED]
+  wiki/Lima/Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)/Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP).md → wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md
+- `Zona Arqueológica Monumental Huaycán de Cieneguilla` --references--> `Lima`  [EXTRACTED]
+  wiki/Lima/Zona Arqueológica Monumental Huaycán de Cieneguilla/Zona Arqueológica Monumental Huaycán de Cieneguilla.md → wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md
+- `Ayacucho` --references--> `Peru`  [EXTRACTED]
+  wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md → wiki/Peru.md
 
 ## Import Cycles
 - None detected.
 
-## Communities (50 total, 14 thin omitted)
+## Communities (34 total, 5 thin omitted)
 
 ### Community 0 - "Community 0"
-Cohesion: 0.10
-Nodes (17): Salas — Complejo Arqueológico Chan Chan – Museo de Sitio, Accesibilidad, Complejo Arqueológico Chan Chan – Museo de Sitio, Informacion general, Notas, Precios, Salas, Accesibilidad (+9 more)
+Cohesion: 0.06
+Nodes (29): 📍 Ayacucho, Listado, Ayacucho, 📍 Ica, Listado, 📍 La Libertad, Listado, 📍 Lambayeque (+21 more)
 
 ### Community 1 - "Community 1"
-Cohesion: 0.11
-Nodes (16): 📍 Lambayeque, Listado, Salas — Museo de Sitio Huaca Rajada – Sipán, Accesibilidad, Informacion general, Museo de Sitio Huaca Rajada – Sipán, Notas, Precios (+8 more)
+Cohesion: 0.07
+Nodes (23): 📍 Lima, Listado, Lima, Accesibilidad, Informacion general, Museo de Arte Italiano, Notas, Precios (+15 more)
 
 ### Community 2 - "Community 2"
-Cohesion: 0.12
-Nodes (14): 📍 Ayacucho, Listado, 📍 Ica, Listado, 📍 Lima Barranca, Listado, Estructura, ¿Qué es este vault? (+6 more)
+Cohesion: 0.08
+Nodes (19): Detalles, Visita nocturna accesible, 2025-07-20 — Visita nocturna accesible, Actividades en esta sala, Informacion, Sala Principal, Salas — Museo Tumbas Reales de Sipán, Accesibilidad (+11 more)
 
 ### Community 3 - "Community 3"
-Cohesion: 0.17
-Nodes (10): Accesibilidad, Ciudad Sagrada de Caral, Informacion general, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
+Cohesion: 0.11
+Nodes (15): Detalles, Visita guiada inclusiva, Accesibilidad, Informacion general, Museo de Sitio Pachacamac, Notas, Precios, Salas (+7 more)
 
 ### Community 4 - "Community 4"
-Cohesion: 0.07
-Nodes (23): Salas — Complejo Arqueológico Mateo Salado, Accesibilidad, Complejo Arqueológico Mateo Salado, Informacion general, Notas, Precios, Salas, 📍 Lima (+15 more)
+Cohesion: 0.12
+Nodes (14): Salas — Complejo Arqueológico Chan Chan – Museo de Sitio, ♿ Accesibilidad, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos, Accesibilidad, Complejo Arqueológico Chan Chan – Museo de Sitio (+6 more)
 
 ### Community 5 - "Community 5"
-Cohesion: 0.17
-Nodes (10): Accesibilidad, Informacion general, Museo de Arte Italiano, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
+Cohesion: 0.12
+Nodes (14): Ica, Accesibilidad, Informacion general, Museo de Sitio Julio C. Tello – Paracas, Notas, Precios, Salas, Salas / Areas (+6 more)
 
 ### Community 6 - "Community 6"
-Cohesion: 0.22
-Nodes (8): 📍 Ayacucho- [[Museo de Sitio de Quinua]], 📍 Ica- [[Museo de Sitio Julio C. Tello – Paracas]], 📍 La Libertad- [[Complejo Arqueológico Chan Chan – Museo de Sitio]]- [[Huacas de Moche – Museo de Sitio Huaca de la Luna]], 📍 Lambayeque- [[Museo Tumbas Reales de Sipán]]- [[Museo de Sitio Huaca Rajada – Sipán]], 📍 Lima Barranca- [[Ciudad Sagrada de Caral]], 📍 Lima- [[Museo de Sitio Pachacamac]]- [[Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)]]- [[Museo Nacional de la Cultura Peruana (MNCP)]]- [[Museo de Arte Italiano]]- [[Zona Arqueológica Monumental Huaycán de Cieneguilla]]- [[Complejo Arqueológico Mateo Salado]], 🗺️ Museos Accesibles del Perú, Por región
+Cohesion: 0.13
+Nodes (13): Salas — Complejo Arqueológico Mateo Salado, ♿ Accesibilidad, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos, Accesibilidad, Complejo Arqueológico Mateo Salado (+5 more)
 
 ### Community 7 - "Community 7"
-Cohesion: 0.20
-Nodes (8): Accesibilidad, Informacion general, Museo de Sitio Julio C. Tello – Paracas, Notas, Precios, Salas, Salas / Areas, Salas - Museo de Sitio Julio C. Tello – Paracas
+Cohesion: 0.13
+Nodes (13): Accesibilidad, Huacas de Moche – Museo de Sitio Huaca de la Luna, Informacion general, Notas, Precios, Salas, Salas / Areas, Salas - Huacas de Moche – Museo de Sitio Huaca de la Luna (+5 more)
 
 ### Community 8 - "Community 8"
-Cohesion: 0.17
-Nodes (10): Accesibilidad, Informacion general, Museo de Sitio Pachacamac, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
+Cohesion: 0.13
+Nodes (13): Salas — Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP), ♿ Accesibilidad, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos, Accesibilidad, Informacion general (+5 more)
+
+### Community 9 - "Community 9"
+Cohesion: 0.13
+Nodes (13): Salas — Zona Arqueológica Monumental Huaycán de Cieneguilla, ♿ Accesibilidad, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos, Salas / Areas, Accesibilidad (+5 more)
 
 ### Community 10 - "Community 10"
-Cohesion: 0.17
-Nodes (10): Accesibilidad, Informacion general, Museo Nacional de la Cultura Peruana (MNCP), Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
+Cohesion: 0.15
+Nodes (11): Accesibilidad, Ciudad Sagrada de Caral, Informacion general, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+3 more)
 
 ### Community 11 - "Community 11"
-Cohesion: 0.22
-Nodes (8): Colecciones, Estructura del vault, Flujo ideal, Frontmatter por tipo, Graphify: memoria central, Modelo de grafo — 6 niveles, Regla principal, Relaciones clave que debes analizar
+Cohesion: 0.18
+Nodes (9): Lambayeque, Salas — Museo de Sitio Huaca Rajada – Sipán, Accesibilidad, Informacion general, Museo de Sitio Huaca Rajada – Sipán, Notas, Precios, Salas (+1 more)
 
-### Community 13 - "Community 13"
+### Community 12 - "Community 12"
 Cohesion: 0.40
 Nodes (8): FileSystemEventHandler, actualizar_grafo(), InboxHandler, procesar_actividades(), procesar_fechas(), procesar_museos(), procesar_salas(), safe()
 
+### Community 13 - "Community 13"
+Cohesion: 0.22
+Nodes (8): Colecciones, Estructura del vault, Flujo ideal, Frontmatter por tipo, Graphify: memoria central, Modelo de grafo — 6 niveles, Regla principal, Relaciones clave que debes analizar
+
 ### Community 14 - "Community 14"
-Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 🏛️ Complejo Arqueológico Chan Chan – Museo de Sitio, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
+Cohesion: 0.22
+Nodes (8): 📍 Ayacucho- [[Museo de Sitio de Quinua]], 📍 Ica- [[Museo de Sitio Julio C. Tello – Paracas]], 📍 La Libertad- [[Complejo Arqueológico Chan Chan – Museo de Sitio]]- [[Huacas de Moche – Museo de Sitio Huaca de la Luna]], 📍 Lambayeque- [[Museo Tumbas Reales de Sipán]]- [[Museo de Sitio Huaca Rajada – Sipán]], 📍 Lima Barranca- [[Ciudad Sagrada de Caral]], 📍 Lima- [[Museo de Sitio Pachacamac]]- [[Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)]]- [[Museo Nacional de la Cultura Peruana (MNCP)]]- [[Museo de Arte Italiano]]- [[Zona Arqueológica Monumental Huaycán de Cieneguilla]]- [[Complejo Arqueológico Mateo Salado]], 🗺️ Museos Accesibles del Perú, Por región
 
 ### Community 15 - "Community 15"
 Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 🏛️ Complejo Arqueológico Mateo Salado, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
-
-### Community 16 - "Community 16"
-Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 🏛️ Huacas de Moche – Museo de Sitio Huaca de la Luna, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
-
-### Community 17 - "Community 17"
-Cohesion: 0.29
 Nodes (6): ♿ Accesibilidad, 📍 Información general, 🏛️ Museo de Sitio Huaca Rajada – Sipán, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
 
-### Community 18 - "Community 18"
-Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 📍 Información general, 🏛️ Museo de Sitio Julio C. Tello – Paracas, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
-
-### Community 19 - "Community 19"
-Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 📍 Información general, 🏛️ Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP), 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
-
-### Community 20 - "Community 20"
-Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 📍 Información general, 🏛️ Museo Tumbas Reales de Sipán, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos
-
-### Community 21 - "Community 21"
-Cohesion: 0.29
-Nodes (6): ♿ Accesibilidad, 📍 Información general, 📝 Notas, 💰 Precios, 🗺️ Salas y recorridos, 🏛️ Zona Arqueológica Monumental Huaycán de Cieneguilla
-
-### Community 22 - "Community 22"
+### Community 16 - "Community 16"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Complejo Arqueológico Chan Chan – Museo de Sitio, Salas / Áreas
 
-### Community 23 - "Community 23"
+### Community 17 - "Community 17"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Complejo Arqueológico Mateo Salado, Salas / Áreas
 
-### Community 24 - "Community 24"
+### Community 18 - "Community 18"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Huacas de Moche – Museo de Sitio Huaca de la Luna, Salas / Áreas
 
-### Community 25 - "Community 25"
+### Community 19 - "Community 19"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Museo de Sitio Huaca Rajada – Sipán, Salas / Áreas
 
-### Community 26 - "Community 26"
+### Community 20 - "Community 20"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Museo de Sitio Julio C. Tello – Paracas, Salas / Áreas
 
-### Community 27 - "Community 27"
+### Community 21 - "Community 21"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP), Salas / Áreas
 
-### Community 28 - "Community 28"
+### Community 22 - "Community 22"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Museo Tumbas Reales de Sipán, Salas / Áreas
 
-### Community 29 - "Community 29"
+### Community 23 - "Community 23"
 Cohesion: 0.40
 Nodes (4): Comandos útiles, Estructura del vault, Frontmatter obligatorio para museos, Reglas para agentes
 
-### Community 30 - "Community 30"
+### Community 24 - "Community 24"
 Cohesion: 0.40
 Nodes (4): Horarios por sala, Recorrido recomendado, 🗂️ Salas — Zona Arqueológica Monumental Huaycán de Cieneguilla, Salas / Áreas
 
-### Community 37 - "Community 37"
-Cohesion: 0.17
-Nodes (10): Accesibilidad, Informacion general, Museo de Sitio de Quinua, Notas, Precios, Salas, Horarios por sala, Recorrido recomendado (+2 more)
-
-### Community 38 - "Community 38"
+### Community 25 - "Community 25"
 Cohesion: 0.50
 Nodes (3): Actividades en esta sala, Informacion, Sala Ichma
 
-### Community 39 - "Community 39"
+### Community 26 - "Community 26"
 Cohesion: 0.50
 Nodes (3): Actividades en esta sala, Informacion, Sala Inca
 
-### Community 40 - "Community 40"
-Cohesion: 0.50
-Nodes (3): Actividades en esta sala, Informacion, Sala Wari
-
-### Community 41 - "Community 41"
+### Community 27 - "Community 27"
 Cohesion: 0.50
 Nodes (3): Actividades en esta sala, Informacion, Sala Descubrimiento
 
-### Community 42 - "Community 42"
-Cohesion: 0.50
-Nodes (3): Actividades en esta sala, Informacion, Sala Principal
-
 ## Knowledge Gaps
-- **205 isolated node(s):** `Regla principal`, `Modelo de grafo — 6 niveles`, `Colecciones`, `Relaciones clave que debes analizar`, `Frontmatter por tipo` (+200 more)
+- **200 isolated node(s):** `Regla principal`, `Modelo de grafo — 6 niveles`, `Colecciones`, `Relaciones clave que debes analizar`, `Frontmatter por tipo` (+195 more)
   These have ≤1 connection - possible missing edges or undocumented components.
-- **14 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
+- **5 thin communities (<3 nodes) omitted from report** — run `graphify query` to explore isolated nodes.
 
 ## Suggested Questions
 _Questions this graph is uniquely positioned to answer:_
 
-- **Why does `🗺️ TourUP_proyect` connect `Community 2` to `Community 0`, `Community 1`, `Community 4`?**
-  _High betweenness centrality (0.081) - this node is a cross-community bridge._
-- **Why does `Peru` connect `Community 2` to `Community 0`, `Community 1`, `Community 4`?**
-  _High betweenness centrality (0.076) - this node is a cross-community bridge._
+- **Why does `Peru` connect `Community 0` to `Community 1`?**
+  _High betweenness centrality (0.181) - this node is a cross-community bridge._
+- **Why does `🗺️ TourUP_proyect` connect `Community 0` to `Community 1`?**
+  _High betweenness centrality (0.170) - this node is a cross-community bridge._
+- **Why does `Museo Tumbas Reales de Sipán` connect `Community 2` to `Community 0`, `Community 11`?**
+  _High betweenness centrality (0.091) - this node is a cross-community bridge._
 - **What connects `Regla principal`, `Modelo de grafo — 6 niveles`, `Colecciones` to the rest of the system?**
-  _205 weakly-connected nodes found - possible documentation gaps or missing edges._
+  _200 weakly-connected nodes found - possible documentation gaps or missing edges._
 - **Should `Community 0` be split into smaller, more focused modules?**
-  _Cohesion score 0.09523809523809523 - nodes in this community are weakly interconnected._
+  _Cohesion score 0.059743954480796585 - nodes in this community are weakly interconnected._
 - **Should `Community 1` be split into smaller, more focused modules?**
-  _Cohesion score 0.10526315789473684 - nodes in this community are weakly interconnected._
-- **Should `Community 2` be split into smaller, more focused modules?**
-  _Cohesion score 0.11695906432748537 - nodes in this community are weakly interconnected._
-- **Should `Community 4` be split into smaller, more focused modules?**
   _Cohesion score 0.07407407407407407 - nodes in this community are weakly interconnected._
+- **Should `Community 2` be split into smaller, more focused modules?**
+  _Cohesion score 0.08333333333333333 - nodes in this community are weakly interconnected._

@@ -30,3 +30,6 @@ tags: [fecha, lambayeque, programado, nivel-6]
 | **Temporada** | temporada-alta |
 
 *← [[Actividad — Visita nocturna accesible]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lambayeque]]*

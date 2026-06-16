@@ -47,3 +47,6 @@ parent: "Lima Barranca"
 
 ## Notas
 Se recomienda coordinar visita con anticipación
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima Barranca]]*

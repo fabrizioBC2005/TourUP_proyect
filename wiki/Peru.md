@@ -21,3 +21,6 @@ Directorio de museos accesibles del Peru organizados por region.
 
 ## Total
 13 museos accesibles indexados
+
+---
+*Pais: [[Peru]] — Ciudad: [[TourUP_proyect]]*

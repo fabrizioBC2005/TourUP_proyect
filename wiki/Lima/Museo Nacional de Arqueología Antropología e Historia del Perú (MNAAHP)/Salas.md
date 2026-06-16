@@ -8,3 +8,6 @@
 
 ---
 *Volver a [[Museo Nacional de Arqueología Antropología e Historia del Perú (MNAAHP)]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

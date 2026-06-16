@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Complejo Arqueológico Mateo Salado]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

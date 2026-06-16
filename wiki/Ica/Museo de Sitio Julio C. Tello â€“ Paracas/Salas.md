@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Museo de Sitio Julio C. Tello – Paracas]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Ica]]*

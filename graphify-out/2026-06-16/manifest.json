@@ -22,17 +22,17 @@
   ".obsidian/graph.json": {
     "mtime": 1781554599.525,
     "ast_hash": "75b0181dddb03016dd68e085ee49d949",
-    "semantic_hash": ""
+    "semantic_hash": "75b0181dddb03016dd68e085ee49d949"
   },
   ".obsidian/workspace.json": {
-    "mtime": 1781591472.8816967,
-    "ast_hash": "7462d1f9cd37b58f48b6392b8fe93e18",
-    "semantic_hash": ""
+    "mtime": 1781592610.8902426,
+    "ast_hash": "37f73262940168b6ea133727dd305623",
+    "semantic_hash": "37f73262940168b6ea133727dd305623"
   },
   "pipeline.py": {
     "mtime": 1781591419.5157797,
     "ast_hash": "e9dc72ed82c26c3bc4b72056a6142dcf",
-    "semantic_hash": ""
+    "semantic_hash": "e9dc72ed82c26c3bc4b72056a6142dcf"
   },
   "CLAUDE.md": {
     "mtime": 1781591004.814583,
@@ -42,7 +42,7 @@
   "TourUP_proyect.md": {
     "mtime": 1781550826.2729611,
     "ast_hash": "55f0877fdef0a7414f896e71c3fa982a",
-    "semantic_hash": ""
+    "semantic_hash": "55f0877fdef0a7414f896e71c3fa982a"
   },
   "schema/CLAUDE.md": {
     "mtime": 1781550342.4216824,
@@ -57,7 +57,7 @@
   "wiki/Ayacucho/00 - Ayacucho.md": {
     "mtime": 1781551755.7467713,
     "ast_hash": "67a73d8a87e05c2c384ca3446b485153",
-    "semantic_hash": ""
+    "semantic_hash": "67a73d8a87e05c2c384ca3446b485153"
   },
   "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md": {
     "mtime": 1781590376.8645415,
@@ -72,7 +72,7 @@
   "wiki/Ica/00 - Ica.md": {
     "mtime": 1781551755.7496243,
     "ast_hash": "1779e3f2cf3723f03318c272fb8c6f08",
-    "semantic_hash": ""
+    "semantic_hash": "1779e3f2cf3723f03318c272fb8c6f08"
   },
   "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md": {
     "mtime": 1781566512.0,
@@ -97,7 +97,7 @@
   "wiki/La Libertad/00 - La Libertad.md": {
     "mtime": 1781551755.7439158,
     "ast_hash": "4aa629f4f11f84cdb60b49ed05d2af02",
-    "semantic_hash": ""
+    "semantic_hash": "4aa629f4f11f84cdb60b49ed05d2af02"
   },
   "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md": {
     "mtime": 1781566512.0,
@@ -142,7 +142,7 @@
   "wiki/Lambayeque/00 - Lambayeque.md": {
     "mtime": 1781551755.741755,
     "ast_hash": "2bd3fd4c006bf86ec4f7d608b9a92b10",
-    "semantic_hash": ""
+    "semantic_hash": "2bd3fd4c006bf86ec4f7d608b9a92b10"
   },
   "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md": {
     "mtime": 1781566512.0,
@@ -187,7 +187,7 @@
   "wiki/Lima Barranca/00 - Lima Barranca.md": {
     "mtime": 1781551755.7511635,
     "ast_hash": "6e1fa2bc72c5d1bd96cca1c9b3187ff7",
-    "semantic_hash": ""
+    "semantic_hash": "6e1fa2bc72c5d1bd96cca1c9b3187ff7"
   },
   "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md": {
     "mtime": 1781590376.8645415,
@@ -202,7 +202,7 @@
   "wiki/Lima/00 - Lima.md": {
     "mtime": 1781551755.7279813,
     "ast_hash": "4775cf7f96d722fe002cffc79e29c687",
-    "semantic_hash": ""
+    "semantic_hash": "4775cf7f96d722fe002cffc79e29c687"
   },
   "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md": {
     "mtime": 1781566512.0,

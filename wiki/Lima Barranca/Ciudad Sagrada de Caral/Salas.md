@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Ciudad Sagrada de Caral]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima Barranca]]*

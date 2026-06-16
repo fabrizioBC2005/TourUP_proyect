@@ -55,3 +55,6 @@ tags: [museo, la-libertad, accesible]
 Sin notas adicionales.
 
 **Base normativa:** RM N° 000051-2024-MC
+
+---
+*Pais: [[Peru]] — Ciudad: [[La Libertad]]*

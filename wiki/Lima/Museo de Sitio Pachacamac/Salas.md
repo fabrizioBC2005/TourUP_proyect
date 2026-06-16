@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Museo de Sitio Pachacamac]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

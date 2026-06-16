@@ -8,3 +8,6 @@
 
 ---
 *Volver a [[Complejo Arqueológico Chan Chan – Museo de Sitio]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[La Libertad]]*

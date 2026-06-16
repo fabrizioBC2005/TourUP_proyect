@@ -47,3 +47,6 @@ parent: "Ayacucho"
 
 ## Notas
 Sin notas adicionales.
+
+---
+*Pais: [[Peru]] — Ciudad: [[Ayacucho]]*

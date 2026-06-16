@@ -55,3 +55,6 @@ tags: [museo, lima, accesible]
 Circuito inclusivo certificado por Mincul 2024
 
 **Base normativa:** RM N° 000051-2024-MC
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

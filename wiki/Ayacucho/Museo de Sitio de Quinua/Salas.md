@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Museo de Sitio de Quinua]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Ayacucho]]*

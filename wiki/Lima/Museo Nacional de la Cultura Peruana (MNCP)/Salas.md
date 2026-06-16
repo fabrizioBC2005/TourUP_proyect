@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Museo Nacional de la Cultura Peruana (MNCP)]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

@@ -47,3 +47,6 @@ parent: "Ica"
 
 ## Notas
 Sin notas adicionales.
+
+---
+*Pais: [[Peru]] — Ciudad: [[Ica]]*

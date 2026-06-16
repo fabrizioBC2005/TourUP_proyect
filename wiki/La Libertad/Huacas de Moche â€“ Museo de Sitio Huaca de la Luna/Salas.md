@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Huacas de Moche – Museo de Sitio Huaca de la Luna]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[La Libertad]]*

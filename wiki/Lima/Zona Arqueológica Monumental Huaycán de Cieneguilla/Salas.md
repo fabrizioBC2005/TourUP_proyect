@@ -8,3 +8,6 @@
 
 ---
 *Volver a [[Zona Arqueológica Monumental Huaycán de Cieneguilla]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

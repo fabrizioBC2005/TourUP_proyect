@@ -8,3 +8,6 @@
 
 ---
 *Volver a [[Museo Tumbas Reales de Sipán]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lambayeque]]*

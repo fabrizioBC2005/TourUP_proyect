@@ -47,3 +47,6 @@ parent: "La Libertad"
 
 ## Notas
 Sin notas adicionales.
+
+---
+*Pais: [[Peru]] — Ciudad: [[La Libertad]]*

@@ -24,3 +24,6 @@
 
 ---
 *← Volver a [[Museo de Sitio Huaca Rajada – Sipán]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lambayeque]]*

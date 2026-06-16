@@ -26,3 +26,6 @@ tags: [sala, lambayeque, nivel-4]
 
 ---
 *← [[Museo Tumbas Reales de Sipan]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lambayeque]]*

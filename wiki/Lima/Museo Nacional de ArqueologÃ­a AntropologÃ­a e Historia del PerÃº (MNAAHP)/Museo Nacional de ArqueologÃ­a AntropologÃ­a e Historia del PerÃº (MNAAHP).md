@@ -55,3 +55,6 @@ tags: [museo, lima, accesible]
 Sin notas adicionales.
 
 **Base normativa:** RM N° 000051-2024-MC
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lima]]*

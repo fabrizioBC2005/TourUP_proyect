@@ -29,3 +29,6 @@ tags: [actividad, lambayeque, visita_guiada, nivel-5]
 
 ---
 *← [[Sala Principal]]*
+
+---
+*Pais: [[Peru]] — Ciudad: [[Lambayeque]]*
