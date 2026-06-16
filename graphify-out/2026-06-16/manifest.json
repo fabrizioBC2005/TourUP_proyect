@@ -5,28 +5,298 @@
     "semantic_hash": "7bf81dca0376bde3a32244b82bc7cbc0"
   },
   ".obsidian/app.json": {
-    "mtime": 1781545372.927805,
+    "mtime": 1781554533.34697,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   ".obsidian/appearance.json": {
-    "mtime": 1781545372.9358037,
+    "mtime": 1781554533.3479671,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   ".obsidian/core-plugins.json": {
-    "mtime": 1781545372.4932413,
+    "mtime": 1781554533.0577433,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
   ".obsidian/graph.json": {
-    "mtime": 1781551770.434,
-    "ast_hash": "e6cd8e5f7e56572b3d48ddef9572547a",
-    "semantic_hash": "e6cd8e5f7e56572b3d48ddef9572547a"
+    "mtime": 1781554599.525,
+    "ast_hash": "75b0181dddb03016dd68e085ee49d949",
+    "semantic_hash": ""
   },
   ".obsidian/workspace.json": {
-    "mtime": 1781552222.817179,
-    "ast_hash": "aa69a793431b5e2b91c9a69d72c40352",
-    "semantic_hash": "aa69a793431b5e2b91c9a69d72c40352"
+    "mtime": 1781554749.204262,
+    "ast_hash": "df6eb87cee76f1e6389ace4b22bf9021",
+    "semantic_hash": ""
+  },
+  "pipeline.py": {
+    "mtime": 1781590155.1633818,
+    "ast_hash": "5b56ba103d0c3d0a85d6279a731ea0d9",
+    "semantic_hash": ""
+  },
+  "CLAUDE.md": {
+    "mtime": 1781550994.9988108,
+    "ast_hash": "a419258d6aec8df414c0728957137ad7",
+    "semantic_hash": ""
+  },
+  "TourUP_proyect.md": {
+    "mtime": 1781550826.2729611,
+    "ast_hash": "55f0877fdef0a7414f896e71c3fa982a",
+    "semantic_hash": ""
+  },
+  "schema/CLAUDE.md": {
+    "mtime": 1781550342.4216824,
+    "ast_hash": "69796d1b8f54cbee0b543b22e53131ca",
+    "semantic_hash": ""
+  },
+  "wiki/00 - \u00c3\u008dndice General.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "8531a1298ff55f8e4242f1b35d240f99",
+    "semantic_hash": ""
+  },
+  "wiki/Ayacucho/00 - Ayacucho.md": {
+    "mtime": 1781551755.7467713,
+    "ast_hash": "67a73d8a87e05c2c384ca3446b485153",
+    "semantic_hash": ""
+  },
+  "wiki/Ayacucho/Museo de Sitio de Quinua/Museo de Sitio de Quinua.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "188b4795cbee656b583d1f394eaf1c2b",
+    "semantic_hash": ""
+  },
+  "wiki/Ayacucho/Museo de Sitio de Quinua/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "3f9a3353b960cf898bff9cc666c3a1b3",
+    "semantic_hash": ""
+  },
+  "wiki/Ica/00 - Ica.md": {
+    "mtime": 1781551755.7496243,
+    "ast_hash": "1779e3f2cf3723f03318c272fb8c6f08",
+    "semantic_hash": ""
+  },
+  "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "439030ac2c549aeece3e31333183ca47",
+    "semantic_hash": ""
+  },
+  "wiki/Ica/Museo de Sitio Julio C. Tello \u00e2\u20ac\u201c Paracas/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "0d4a396c930404e079efe18ecbd0eb30",
+    "semantic_hash": ""
+  },
+  "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Museo de Sitio Julio C. Tello \u2013 Paracas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "5150179d7e262322388f657e9941edc1",
+    "semantic_hash": ""
+  },
+  "wiki/Ica/Museo de Sitio Julio C. Tello \u2013 Paracas/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "d0fad37bfe80ca978f4c8d300aa1f261",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/00 - La Libertad.md": {
+    "mtime": 1781551755.7439158,
+    "ast_hash": "4aa629f4f11f84cdb60b49ed05d2af02",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "33f618da2f20b621458f6fc6727eed37",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Complejo Arqueol\u00c3\u00b3gico Chan Chan \u00e2\u20ac\u201c Museo de Sitio/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "d0c59fd7aeb77ba34b687b3e73a7e972",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "d7cf7441ce67674464de36f46a26000b",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Complejo Arqueol\u00f3gico Chan Chan \u2013 Museo de Sitio/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "cfbd030d0137b463efa721009ca5411d",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "65ee689b7a017f08c6f38fa8fc7bf203",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Huacas de Moche \u00e2\u20ac\u201c Museo de Sitio Huaca de la Luna/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "acee7b1997973a4b789726ace3ff55f7",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "b7553398a2cd85c16796b98c1e6afb31",
+    "semantic_hash": ""
+  },
+  "wiki/La Libertad/Huacas de Moche \u2013 Museo de Sitio Huaca de la Luna/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "502bbb9541659b9c70bcc6d9f3007166",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/00 - Lambayeque.md": {
+    "mtime": 1781551755.741755,
+    "ast_hash": "2bd3fd4c006bf86ec4f7d608b9a92b10",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Museo Tumbas Reales de Sip\u00c3\u00a1n.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "2424a5ac13d7c0f73fd5d6e1f3cb5e78",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00c3\u00a1n/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "c75c152be1337520294f49227b3efc95",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Museo Tumbas Reales de Sip\u00e1n.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "9d7b17a5f963479821bc6ffe560ac8f0",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo Tumbas Reales de Sip\u00e1n/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "24ba21941e332364c8728be4ed47899c",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "9be257411e8e992c95d8969cc287007e",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u00e2\u20ac\u201c Sip\u00c3\u00a1n/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "47d2e53972810277481d9e13960b6b8e",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "01801155dfe78b6f9e6a99f7627859c8",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo de Sitio Huaca Rajada \u2013 Sip\u00e1n/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "355bd371b155ab306ceea4aebf7e4ef1",
+    "semantic_hash": ""
+  },
+  "wiki/Lima Barranca/00 - Lima Barranca.md": {
+    "mtime": 1781551755.7511635,
+    "ast_hash": "6e1fa2bc72c5d1bd96cca1c9b3187ff7",
+    "semantic_hash": ""
+  },
+  "wiki/Lima Barranca/Ciudad Sagrada de Caral/Ciudad Sagrada de Caral.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "1725f26a91cca03d09bf2bee74e620dd",
+    "semantic_hash": ""
+  },
+  "wiki/Lima Barranca/Ciudad Sagrada de Caral/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "673a2dd59a2da4ad5c04e8a6e59a0081",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/00 - Lima.md": {
+    "mtime": 1781551755.7279813,
+    "ast_hash": "4775cf7f96d722fe002cffc79e29c687",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Complejo Arqueol\u00c3\u00b3gico Mateo Salado.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "b316d928a3f3394db788a4ac20249681",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Complejo Arqueol\u00c3\u00b3gico Mateo Salado/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "fa2802e9725e08867657e7f65c0210b0",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Complejo Arqueol\u00f3gico Mateo Salado.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "6e0f3ce19e0b885714bbdd6d9be8a25f",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Complejo Arqueol\u00f3gico Mateo Salado/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "b0ff49a37bf9e3e8a0e69b6da97e4bac",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP).md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "2748a8bbc13764689cb0befa88f90874",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo Nacional de Arqueolog\u00c3\u00ada Antropolog\u00c3\u00ada e Historia del Per\u00c3\u00ba (MNAAHP)/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "16e3e7194c0c79a89c8bacff0b1d236d",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP).md": {
+    "mtime": 1781590376.851035,
+    "ast_hash": "dd782d9c937d4053e3eae7c5630af222",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo Nacional de Arqueolog\u00eda Antropolog\u00eda e Historia del Per\u00fa (MNAAHP)/Salas.md": {
+    "mtime": 1781590376.851035,
+    "ast_hash": "2582d9c0d71ebca97761e209f5604f15",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Museo Nacional de la Cultura Peruana (MNCP).md": {
+    "mtime": 1781590376.851035,
+    "ast_hash": "b8c5298023cddf411de117599d43fe2c",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo Nacional de la Cultura Peruana (MNCP)/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "afa8863185341a2bf692c293df57c5d9",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md": {
+    "mtime": 1781590376.851035,
+    "ast_hash": "6bd83b26a21c51ec7efed9927f46e412",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Arte Italiano/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "2b9378b2b2dd92552e1bc937aeffb1a2",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md": {
+    "mtime": 1781590376.851035,
+    "ast_hash": "1d5fe26fa867cc6e1f6a09f38563b2a8",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "aa3992d6d75d0d432695544a58f91dac",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Salas.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "b4b177fc6f7b3ccb810485cda6a26731",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla/Zona Arqueol\u00c3\u00b3gica Monumental Huayc\u00c3\u00a1n de Cieneguilla.md": {
+    "mtime": 1781566512.0,
+    "ast_hash": "7436f8173db563856fc37a334208e9f3",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Salas.md": {
+    "mtime": 1781590376.8645415,
+    "ast_hash": "5178c5589d1b06ea134ca9c04a708565",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla/Zona Arqueol\u00f3gica Monumental Huayc\u00e1n de Cieneguilla.md": {
+    "mtime": 1781590376.851035,
+    "ast_hash": "8e4b5e5a522421de827420b5984b1366",
+    "semantic_hash": ""
+  },
+  "wiki/Peru.md": {
+    "mtime": 1781554736.3010182,
+    "ast_hash": "b39d155fb5d1a3f216a893fa7d2271d7",
+    "semantic_hash": ""
   }
 }
