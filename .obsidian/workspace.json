@@ -11,14 +11,10 @@
             "id": "28c13ca14f8a5491",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "graphify-out/2026-06-15/GRAPH_REPORT.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "GRAPH_REPORT"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -180,11 +176,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "09e5b2cade7baf88",
+  "active": "28c13ca14f8a5491",
   "lastOpenFiles": [
+    "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md",
+    "wiki/Cusco/Museo de Prueba TourUP/Salas.md",
+    "graphify-out/2026-06-15/GRAPH_REPORT.md",
     "CLAUDE.md",
     "wiki/Peru.md",
-    "graphify-out/2026-06-15/GRAPH_REPORT.md",
     "TourUP_proyect.md",
     "wiki/00 - Ãndice General.md",
     "Sin título.canvas",
@@ -216,7 +214,6 @@
     "wiki/Lima/Museo Nacional de ArqueologÃ­a AntropologÃ­a e Historia del PerÃº (MNAAHP)/Museo Nacional de ArqueologÃ­a AntropologÃ­a e Historia del PerÃº (MNAAHP).md",
     "wiki/Lima/Museo de Arte Italiano/Salas.md",
     "wiki/Lima/Museo de Arte Italiano/Museo de Arte Italiano.md",
-    "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
-    "wiki/Lima/00 - Lima.md"
+    "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md"
   ]
 }
