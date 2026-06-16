@@ -25,13 +25,13 @@
     "semantic_hash": ""
   },
   ".obsidian/workspace.json": {
-    "mtime": 1781591274.8772368,
-    "ast_hash": "b4efdda8dc1b3955dc5dbf24d2e97ab3",
+    "mtime": 1781591472.8816967,
+    "ast_hash": "7462d1f9cd37b58f48b6392b8fe93e18",
     "semantic_hash": ""
   },
   "pipeline.py": {
-    "mtime": 1781591075.5044105,
-    "ast_hash": "f6f0df1ec37eb2a25b705f03c2b1146f",
+    "mtime": 1781591419.5157797,
+    "ast_hash": "e9dc72ed82c26c3bc4b72056a6142dcf",
     "semantic_hash": ""
   },
   "CLAUDE.md": {
@@ -342,6 +342,26 @@
   "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md": {
     "mtime": 1781591274.7119675,
     "ast_hash": "fb7a2e19dde9eabbc70d98d7f84a397b",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Fecha \u2014 2025-07-20 \u2014 Visita nocturna accesible.md": {
+    "mtime": 1781591472.2641594,
+    "ast_hash": "ea3292372b0f194cdb57764801c5984b",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-15 \u2014 Visita guiada inclusiva.md": {
+    "mtime": 1781591472.2595608,
+    "ast_hash": "6d3ca80a4373f3af9c4562180a3cb94b",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-07-22 \u2014 Visita guiada inclusiva.md": {
+    "mtime": 1781591472.2641594,
+    "ast_hash": "a9a1b99880b11351e0e567ae9db1b32d",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Fecha \u2014 2025-08-01 \u2014 Taller de ceramica.md": {
+    "mtime": 1781591472.2641594,
+    "ast_hash": "c8ce368d384f95cb3bafb991d30f52ef",
     "semantic_hash": ""
   }
 }

@@ -16,8 +16,8 @@ def procesar_museos(path):
     print(f"[pipeline] Procesando museos: {path.name}")
     with open(path, 'r', encoding='utf-8-sig') as f:
         for row in csv.DictReader(f):
-            nombre  = safe(row.get('Nombre', ''))
-            region  = safe(row.get('Region', row.get('Région', '')))
+            nombre = safe(row.get('Nombre', ''))
+            region = safe(row.get('Region', row.get('Región', '')))
             if not nombre or not region: continue
             p = WIKI / region / nombre
             p.mkdir(parents=True, exist_ok=True)
@@ -46,13 +46,6 @@ tags: [museo, {region.lower().replace(' ','-')}, accesible, nivel-3]
 | **Pais** | [[Peru]] |
 | **Ciudad** | [[{region}]] |
 | **Tipo** | {row.get('Tipo','').strip()} |
-| **Direccion** | {row.get('Dirección', row.get('Direccion','')).strip()} |
-
-## Precios
-| Publico | Precio |
-|---------|--------|
-| General | S/ {row.get('Precio general (S/)','').strip()} |
-| CONADIS | {row.get('Precio personas con discapacidad','').strip()} |
 
 ## Salas
 ![[Salas]]
@@ -69,20 +62,15 @@ museo: "{nombre}"
 ciudad: "{region}"
 tipo_sala: permanente
 accesible: true
-capacidad: ""
-categoria_sala: permanente
-tags: [sala, {region.lower().replace(' ','-')}, nivel-4]
+tags: [sala, nivel-4]
 ---
 
 # Salas — {nombre}
 
-## Salas disponibles
-| Sala | Tipo | Accesible | Capacidad |
-|------|------|-----------|-----------|
-| Sala 1 | permanente | Si | — |
-| Sala 2 | temporal | Si | — |
+| Sala | Tipo | Accesible |
+|------|------|-----------|
+| Sala 1 | permanente | Si |
 
----
 *← [[{nombre}]]*
 """, encoding='utf-8')
             if not (p / "Actividades.md").exists():
@@ -91,37 +79,31 @@ type: actividad
 parent: "{nombre}"
 museo: "{nombre}"
 ciudad: "{region}"
-sala: ""
-categoria_actividad: visita_guiada
-discapacidades_atendidas: ""
-tags: [actividad, {region.lower().replace(' ','-')}, nivel-5]
+tags: [actividad, nivel-5]
 ---
 
 # Actividades — {nombre}
 
-## Proximas actividades
 | Actividad | Sala | Categoria | Fecha | Cupos |
 |-----------|------|-----------|-------|-------|
 | Visita guiada | Sala 1 | visita_guiada | — | — |
 
----
 *← [[{nombre}]]*
 """, encoding='utf-8')
             print(f"  [ok] {nombre} -> wiki/{region}/")
     shutil.move(str(path), str(VAULT / "sources" / path.name))
-    print(f"[pipeline] CSV movido a sources/")
 
 def procesar_salas(path):
     print(f"[pipeline] Procesando salas: {path.name}")
     with open(path, 'r', encoding='utf-8-sig') as f:
         for row in csv.DictReader(f):
-            museo = safe(row.get('Museo', ''))
+            museo  = safe(row.get('Museo', ''))
             ciudad = safe(row.get('Ciudad', ''))
-            sala  = safe(row.get('Sala', ''))
+            sala   = safe(row.get('Sala', ''))
             if not museo or not sala: continue
             p = WIKI / ciudad / museo
             p.mkdir(parents=True, exist_ok=True)
-            md = f"""---
+            (p / f"{sala}.md").write_text(f"""---
 type: sala
 parent: "{museo}"
 museo: "{museo}"
@@ -135,7 +117,6 @@ tags: [sala, {ciudad.lower().replace(' ','-')}, nivel-4]
 
 # {sala}
 
-## Informacion
 | Campo | Detalle |
 |-------|---------|
 | **Museo** | [[{museo}]] |
@@ -144,13 +125,8 @@ tags: [sala, {ciudad.lower().replace(' ','-')}, nivel-4]
 | **Accesible** | {row.get('Accesible','').strip()} |
 | **Capacidad** | {row.get('Capacidad','').strip()} |
 
-## Actividades en esta sala
-![[Actividades]]
-
----
 *← [[{museo}]]*
-"""
-            (p / f"{sala}.md").write_text(md, encoding='utf-8')
+""", encoding='utf-8')
             print(f"  [ok] {sala} -> wiki/{ciudad}/{museo}/")
     shutil.move(str(path), str(VAULT / "sources" / path.name))
 
@@ -158,15 +134,14 @@ def procesar_actividades(path):
     print(f"[pipeline] Procesando actividades: {path.name}")
     with open(path, 'r', encoding='utf-8-sig') as f:
         for row in csv.DictReader(f):
-            museo      = safe(row.get('Museo', ''))
-            ciudad     = safe(row.get('Ciudad', ''))
-            sala       = safe(row.get('Sala', ''))
-            actividad  = safe(row.get('Actividad', ''))
+            museo     = safe(row.get('Museo', ''))
+            ciudad    = safe(row.get('Ciudad', ''))
+            sala      = safe(row.get('Sala', ''))
+            actividad = safe(row.get('Actividad', ''))
             if not museo or not actividad: continue
             p = WIKI / ciudad / museo
             p.mkdir(parents=True, exist_ok=True)
-            nombre_archivo = f"Actividad — {actividad}"
-            md = f"""---
+            (p / f"Actividad — {actividad}.md").write_text(f"""---
 type: actividad
 parent: "{sala if sala else museo}"
 museo: "{museo}"
@@ -183,23 +158,69 @@ tags: [actividad, {ciudad.lower().replace(' ','-')}, {row.get('Categoria','visit
 
 # {actividad}
 
-## Detalles
 | Campo | Detalle |
 |-------|---------|
 | **Museo** | [[{museo}]] |
-| **Ciudad** | [[{ciudad}]] |
 | **Sala** | {sala} |
 | **Categoria** | {row.get('Categoria','').strip()} |
-| **Discapacidades** | {row.get('Discapacidades','').strip()} |
 | **Fecha inicio** | {row.get('Fecha inicio','').strip()} |
 | **Fecha fin** | {row.get('Fecha fin','').strip()} |
 | **Cupos** | {row.get('Cupos','').strip()} |
 
----
+## Fechas programadas
+![[Fechas]]
+
 *← [[{sala if sala else museo}]]*
-"""
-            (p / f"{nombre_archivo}.md").write_text(md, encoding='utf-8')
+""", encoding='utf-8')
             print(f"  [ok] {actividad} -> wiki/{ciudad}/{museo}/")
+    shutil.move(str(path), str(VAULT / "sources" / path.name))
+
+def procesar_fechas(path):
+    print(f"[pipeline] Procesando fechas: {path.name}")
+    with open(path, 'r', encoding='utf-8-sig') as f:
+        for row in csv.DictReader(f):
+            museo     = safe(row.get('Museo', ''))
+            ciudad    = safe(row.get('Ciudad', ''))
+            actividad = safe(row.get('Actividad', ''))
+            fecha     = safe(row.get('Fecha', ''))
+            if not museo or not fecha: continue
+            p = WIKI / ciudad / museo
+            p.mkdir(parents=True, exist_ok=True)
+            nombre_archivo = f"Fecha — {fecha} — {actividad}"
+            (p / f"{nombre_archivo}.md").write_text(f"""---
+type: fecha
+parent: "{actividad if actividad else museo}"
+actividad: "{actividad}"
+museo: "{museo}"
+ciudad: "{ciudad}"
+sala: "{safe(row.get('Sala',''))}"
+fecha: "{fecha}"
+hora_inicio: "{row.get('Hora inicio','').strip()}"
+hora_fin: "{row.get('Hora fin','').strip()}"
+cupos_disponibles: "{row.get('Cupos disponibles','').strip()}"
+cupos_total: "{row.get('Cupos total','').strip()}"
+estado: "{row.get('Estado','programado').strip()}"
+temporada: "{row.get('Temporada','').strip()}"
+tags: [fecha, {ciudad.lower().replace(' ','-')}, {row.get('Estado','programado').strip()}, nivel-6]
+---
+
+# {fecha} — {actividad}
+
+| Campo | Detalle |
+|-------|---------|
+| **Museo** | [[{museo}]] |
+| **Ciudad** | [[{ciudad}]] |
+| **Actividad** | [[Actividad — {actividad}]] |
+| **Sala** | {safe(row.get('Sala',''))} |
+| **Fecha** | {fecha} |
+| **Hora** | {row.get('Hora inicio','').strip()} - {row.get('Hora fin','').strip()} |
+| **Cupos disponibles** | {row.get('Cupos disponibles','').strip()} / {row.get('Cupos total','').strip()} |
+| **Estado** | {row.get('Estado','programado').strip()} |
+| **Temporada** | {row.get('Temporada','').strip()} |
+
+*← [[Actividad — {actividad}]]*
+""", encoding='utf-8')
+            print(f"  [ok] {fecha} {actividad} -> wiki/{ciudad}/{museo}/")
     shutil.move(str(path), str(VAULT / "sources" / path.name))
 
 def actualizar_grafo():
@@ -215,9 +236,10 @@ class InboxHandler(FileSystemEventHandler):
         if event.is_directory: return
         path = Path(event.src_path)
         time.sleep(1)
+        if path.suffix.lower() != '.csv': return
         name = path.name.lower()
-        if not path.suffix == '.csv': return
-        if 'sala' in name:       procesar_salas(path)
+        if 'fecha' in name:       procesar_fechas(path)
+        elif 'sala' in name:      procesar_salas(path)
         elif 'actividad' in name: procesar_actividades(path)
         else:                     procesar_museos(path)
         actualizar_grafo()
@@ -225,9 +247,10 @@ class InboxHandler(FileSystemEventHandler):
 if __name__ == "__main__":
     print(f"[pipeline] Vigilando inbox/: {INBOX}")
     print("[pipeline] Tipos soportados:")
-    print("  - museos_*.csv    -> Nivel 3")
-    print("  - salas_*.csv     -> Nivel 4")
+    print("  - museos_*.csv      -> Nivel 3")
+    print("  - salas_*.csv       -> Nivel 4")
     print("  - actividades_*.csv -> Nivel 5")
+    print("  - fechas_*.csv      -> Nivel 6")
     observer = Observer()
     observer.schedule(InboxHandler(), str(INBOX), recursive=False)
     observer.start()
