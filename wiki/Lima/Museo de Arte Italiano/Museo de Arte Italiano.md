@@ -1,57 +1,49 @@
 ---
-región: Lima
+type: museo
+region: Lima
 tipo: Arte
-administración: Ministerio de Cultura del Perú
-dirección: "Paseo de la República 250, Lima Cercado"
-teléfono: "01-423-9932"
-correo: "museodearteitaliano@mcultura.gob.pe"
+administracion: Ministerio de Cultura del Perú
+direccion: "Paseo de la República 250, Lima Cercado"
 precio_general: "Tarifa Mincul vigente"
 precio_discapacidad: "Gratuito (CONADIS)"
 discapacidades: "Visual, motriz"
-base_normativa: "RM N° 000051-2024-MC"
 tags: [museo, lima, accesible]
+parent: "Lima"
 ---
 
-# 🏛️ Museo de Arte Italiano
+# Museo de Arte Italiano
 
 > Inaugurado en 1923. Obsequio de la colonia italiana en el centenario de la independencia. Edificio de Gaetano Moretti. Más de 200 obras pictóricas, escultóricas, grabados y cerámicas del s. XX italiano.
 
-## 📍 Información general
+## Informacion general
 
 | Campo | Detalle |
 |-------|---------|
-| **Región** | [[00 - Lima\|Lima]] |
+| **Region** | [[Lima]] |
 | **Tipo** | Arte |
-| **Administración** | Ministerio de Cultura del Perú |
-| **Dirección** | Paseo de la República 250, Lima Cercado |
-| **Teléfono** | 01-423-9932 |
-| **Correo** | museodearteitaliano@mcultura.gob.pe |
+| **Administracion** | Ministerio de Cultura del Perú |
+| **Direccion** | Paseo de la República 250, Lima Cercado |
 
-## 💰 Precios
+## Precios
 
-| Público | Precio |
+| Publico | Precio |
 |---------|--------|
 | General | S/ Tarifa Mincul vigente |
-| Personas con discapacidad (CONADIS) | Gratuito (CONADIS) |
-| Discapacidades atendidas | Visual, motriz |
+| CONADIS | Gratuito (CONADIS) |
 
-## ♿ Accesibilidad
+## Accesibilidad
 
 | Servicio | Estado |
 |----------|--------|
-| Sillas de ruedas / Carritos eléctricos | ✅ Accesos habilitados |
-| Plano háptico / Piezas táctiles | ❓ No documentado |
-| Cartillas Braille | ✅ Sí — paneles y señalética |
-| Lengua de Señas Peruana | ❓ No documentado |
-| Circuito inclusivo | ✅ Sí |
-| Personal capacitado | ✅ Sí |
-| Baños accesibles | ✅ Sí |
+| Sillas / Carritos | No documentado |
+| Braille | No documentado |
+| Lengua de Senas | No documentado |
+| Circuito inclusivo | No documentado |
+| Banos accesibles | No documentado |
 
-## 🗺️ Salas y recorridos
+## Salas
 
 ![[Salas]]
 
-## 📝 Notas
+## Notas
 Sin notas adicionales.
-
-**Base normativa:** RM N° 000051-2024-MC

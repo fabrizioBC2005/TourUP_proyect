@@ -1,0 +1,193 @@
+{
+  "communities": {
+    "0": [
+      "complejo_arqueologico_chan_chan_museo_de_sitio_complejo_arqueologico_chan_chan_museo_de_sitio",
+      "complejo_arqueologico_chan_chan_museo_de_sitio_salas",
+      "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
+      "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
+      "la_libertad_00_la_libertad"
+    ],
+    "1": [
+      "lambayeque_00_lambayeque",
+      "museo_de_sitio_huaca_rajada_sipan_museo_de_sitio_huaca_rajada_sipan",
+      "museo_de_sitio_huaca_rajada_sipan_salas",
+      "museo_tumbas_reales_de_sipan_museo_tumbas_reales_de_sipan",
+      "museo_tumbas_reales_de_sipan_salas"
+    ],
+    "2": [
+      "ayacucho_00_ayacucho",
+      "ica_00_ica",
+      "peru_peru",
+      "tourup_proyect_tourup_proyect"
+    ],
+    "3": [
+      "ciudad_sagrada_de_caral_ciudad_sagrada_de_caral",
+      "ciudad_sagrada_de_caral_salas",
+      "lima_barranca_00_lima_barranca"
+    ],
+    "4": [
+      "complejo_arqueologico_mateo_salado_complejo_arqueologico_mateo_salado",
+      "complejo_arqueologico_mateo_salado_salas",
+      "lima_00_lima"
+    ],
+    "5": [
+      "museo_de_arte_italiano_museo_de_arte_italiano",
+      "museo_de_arte_italiano_salas"
+    ],
+    "6": [
+      "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
+      "museo_de_sitio_de_quinua_salas"
+    ],
+    "7": [
+      "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
+      "museo_de_sitio_julio_c_tello_paracas_salas"
+    ],
+    "8": [
+      "museo_de_sitio_pachacamac_museo_de_sitio_pachacamac",
+      "museo_de_sitio_pachacamac_salas"
+    ],
+    "9": [
+      "museo_nacional_de_arqueologia_antropologia_e_historia_del_peru_mnaahp_museo_nacional_de_arqueologia_antropologia_e_historia_del_peru_mnaahp",
+      "museo_nacional_de_arqueologia_antropologia_e_historia_del_peru_mnaahp_salas"
+    ],
+    "10": [
+      "museo_nacional_de_la_cultura_peruana_mncp_museo_nacional_de_la_cultura_peruana_mncp",
+      "museo_nacional_de_la_cultura_peruana_mncp_salas"
+    ],
+    "11": [
+      "zona_arqueologica_monumental_huaycan_de_cieneguilla_salas",
+      "zona_arqueologica_monumental_huaycan_de_cieneguilla_zona_arqueologica_monumental_huaycan_de_cieneguilla"
+    ],
+    "12": [
+      "obsidian_app"
+    ]
+  },
+  "cohesion": {
+    "0": 0.4,
+    "1": 0.4,
+    "2": 0.6666666666666666,
+    "3": 0.6666666666666666,
+    "4": 0.6666666666666666,
+    "5": 1.0,
+    "6": 1.0,
+    "7": 1.0,
+    "8": 1.0,
+    "9": 1.0,
+    "10": 1.0,
+    "11": 1.0,
+    "12": 1.0
+  },
+  "gods": [
+    {
+      "id": "lima_00_lima",
+      "label": "Lima",
+      "degree": 8
+    },
+    {
+      "id": "peru_peru",
+      "label": "Peru",
+      "degree": 6
+    },
+    {
+      "id": "tourup_proyect_tourup_proyect",
+      "label": "TourUP_proyect",
+      "degree": 6
+    },
+    {
+      "id": "la_libertad_00_la_libertad",
+      "label": "La Libertad",
+      "degree": 4
+    },
+    {
+      "id": "lambayeque_00_lambayeque",
+      "label": "Lambayeque",
+      "degree": 4
+    },
+    {
+      "id": "ayacucho_00_ayacucho",
+      "label": "Ayacucho",
+      "degree": 3
+    },
+    {
+      "id": "ica_00_ica",
+      "label": "Ica",
+      "degree": 3
+    },
+    {
+      "id": "lima_barranca_00_lima_barranca",
+      "label": "Lima Barranca",
+      "degree": 3
+    },
+    {
+      "id": "museo_de_sitio_de_quinua_museo_de_sitio_de_quinua",
+      "label": "Museo de Sitio de Quinua",
+      "degree": 2
+    },
+    {
+      "id": "museo_de_sitio_julio_c_tello_paracas_museo_de_sitio_julio_c_tello_paracas",
+      "label": "Museo de Sitio Julio C. Tello \u2013 Paracas",
+      "degree": 2
+    }
+  ],
+  "surprises": [
+    {
+      "source": "TourUP_proyect",
+      "target": "La Libertad",
+      "source_files": [
+        "TourUP_proyect.md",
+        "wiki/La Libertad/00 - La Libertad.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "TourUP_proyect",
+      "target": "Lambayeque",
+      "source_files": [
+        "TourUP_proyect.md",
+        "wiki/Lambayeque/00 - Lambayeque.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "TourUP_proyect",
+      "target": "Lima",
+      "source_files": [
+        "TourUP_proyect.md",
+        "wiki/Lima/00 - Lima.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "TourUP_proyect",
+      "target": "Lima Barranca",
+      "source_files": [
+        "TourUP_proyect.md",
+        "wiki/Lima Barranca/00 - Lima Barranca.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories; bridges separate communities"
+    },
+    {
+      "source": "TourUP_proyect",
+      "target": "Ayacucho",
+      "source_files": [
+        "TourUP_proyect.md",
+        "wiki/Ayacucho/00 - Ayacucho.md"
+      ],
+      "confidence": "EXTRACTED",
+      "relation": "references",
+      "why": "connects across different repos/directories"
+    }
+  ],
+  "tokens": {
+    "input": 15571,
+    "output": 13975
+  }
+}

@@ -1,0 +1,32 @@
+{
+  ".claude/settings.json": {
+    "mtime": 1781547279.8274302,
+    "ast_hash": "7bf81dca0376bde3a32244b82bc7cbc0",
+    "semantic_hash": "7bf81dca0376bde3a32244b82bc7cbc0"
+  },
+  ".obsidian/app.json": {
+    "mtime": 1781545372.927805,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  ".obsidian/appearance.json": {
+    "mtime": 1781545372.9358037,
+    "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
+    "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  ".obsidian/core-plugins.json": {
+    "mtime": 1781545372.4932413,
+    "ast_hash": "7c877bea49eaeabb100563bd157b9051",
+    "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
+  },
+  ".obsidian/graph.json": {
+    "mtime": 1781551770.434,
+    "ast_hash": "e6cd8e5f7e56572b3d48ddef9572547a",
+    "semantic_hash": "e6cd8e5f7e56572b3d48ddef9572547a"
+  },
+  ".obsidian/workspace.json": {
+    "mtime": 1781552222.817179,
+    "ast_hash": "aa69a793431b5e2b91c9a69d72c40352",
+    "semantic_hash": "aa69a793431b5e2b91c9a69d72c40352"
+  }
+}
