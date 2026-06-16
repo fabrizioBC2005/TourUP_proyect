@@ -5,17 +5,17 @@
     "semantic_hash": "7bf81dca0376bde3a32244b82bc7cbc0"
   },
   ".obsidian/app.json": {
-    "mtime": 1781554533.34697,
+    "mtime": 1781590631.9083972,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   ".obsidian/appearance.json": {
-    "mtime": 1781554533.3479671,
+    "mtime": 1781590631.9083972,
     "ast_hash": "99914b932bd37a50b983c5e7c90ae93b",
     "semantic_hash": "99914b932bd37a50b983c5e7c90ae93b"
   },
   ".obsidian/core-plugins.json": {
-    "mtime": 1781554533.0577433,
+    "mtime": 1781590631.4601197,
     "ast_hash": "7c877bea49eaeabb100563bd157b9051",
     "semantic_hash": "7c877bea49eaeabb100563bd157b9051"
   },
@@ -25,18 +25,18 @@
     "semantic_hash": ""
   },
   ".obsidian/workspace.json": {
-    "mtime": 1781554749.204262,
-    "ast_hash": "df6eb87cee76f1e6389ace4b22bf9021",
+    "mtime": 1781591230.8849666,
+    "ast_hash": "e16aed0394549a44f3068a2125946238",
     "semantic_hash": ""
   },
   "pipeline.py": {
-    "mtime": 1781590155.1633818,
-    "ast_hash": "5b56ba103d0c3d0a85d6279a731ea0d9",
+    "mtime": 1781591075.5044105,
+    "ast_hash": "f6f0df1ec37eb2a25b705f03c2b1146f",
     "semantic_hash": ""
   },
   "CLAUDE.md": {
-    "mtime": 1781550994.9988108,
-    "ast_hash": "a419258d6aec8df414c0728957137ad7",
+    "mtime": 1781591004.814583,
+    "ast_hash": "f157e4c443d3ee780741e071570ab549",
     "semantic_hash": ""
   },
   "TourUP_proyect.md": {
@@ -299,14 +299,29 @@
     "ast_hash": "b39d155fb5d1a3f216a893fa7d2271d7",
     "semantic_hash": ""
   },
-  "wiki/Cusco/Museo de Prueba TourUP/Museo de Prueba TourUP.md": {
-    "mtime": 1781590577.1677933,
-    "ast_hash": "f0cac67c32f426d3e8fc3ef7e762eced",
+  "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md": {
+    "mtime": 1781591230.022058,
+    "ast_hash": "d63522334dd4e3ee462acd978f1b5d80",
     "semantic_hash": ""
   },
-  "wiki/Cusco/Museo de Prueba TourUP/Salas.md": {
-    "mtime": 1781590577.1677933,
-    "ast_hash": "4d015dd7028125aaa36041dd62499529",
+  "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md": {
+    "mtime": 1781591230.022058,
+    "ast_hash": "6c6be2f41c34fddff15884dc971796f4",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md": {
+    "mtime": 1781591230.0206528,
+    "ast_hash": "af91450b3fd1ea24aca52dbed350a88f",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md": {
+    "mtime": 1781591230.0139236,
+    "ast_hash": "248c614665cbb8526159455399757cc2",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md": {
+    "mtime": 1781591230.0139236,
+    "ast_hash": "1420464b75c4a283aab11f1f3d257006",
     "semantic_hash": ""
   }
 }

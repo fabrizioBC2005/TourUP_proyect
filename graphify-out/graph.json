@@ -200,7 +200,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "tourup_proyect",
-      "community": 2,
+      "community": 0,
       "norm_label": "tourup_proyect.md"
     },
     {
@@ -210,7 +210,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "tourup_proyect_tourup_proyect",
-      "community": 2,
+      "community": 0,
       "norm_label": "\ud83d\uddfa\ufe0f tourup_proyect"
     },
     {
@@ -220,7 +220,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "tourup_proyect_qu\u00e9_es_este_vault",
-      "community": 2,
+      "community": 0,
       "norm_label": "\u00bfque es este vault?"
     },
     {
@@ -230,7 +230,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "tourup_proyect_estructura",
-      "community": 2,
+      "community": 0,
       "norm_label": "estructura"
     },
     {
@@ -240,7 +240,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "tourup_proyect_regiones",
-      "community": 2,
+      "community": 0,
       "norm_label": "regiones"
     },
     {
@@ -250,7 +250,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "tourup_proyect_total",
-      "community": 2,
+      "community": 0,
       "norm_label": "total"
     },
     {
@@ -400,7 +400,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ayacucho_00_ayacucho",
-      "community": 2,
+      "community": 37,
       "norm_label": "00 - ayacucho.md"
     },
     {
@@ -410,7 +410,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ayacucho_00_ayacucho_ayacucho",
-      "community": 2,
+      "community": 37,
       "norm_label": "\ud83d\udccd ayacucho"
     },
     {
@@ -420,7 +420,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "ayacucho_00_ayacucho_listado",
-      "community": 2,
+      "community": 37,
       "norm_label": "listado"
     },
     {
@@ -550,7 +550,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ica_00_ica",
-      "community": 2,
+      "community": 7,
       "norm_label": "00 - ica.md"
     },
     {
@@ -560,7 +560,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "ica_00_ica_ica",
-      "community": 2,
+      "community": 7,
       "norm_label": "\ud83d\udccd ica"
     },
     {
@@ -570,7 +570,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "ica_00_ica_listado",
-      "community": 2,
+      "community": 7,
       "norm_label": "listado"
     },
     {
@@ -1170,7 +1170,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "community": 0,
+      "community": 2,
       "norm_label": "huacas de moche \u2013 museo de sitio huaca de la luna.md"
     },
     {
@@ -1180,7 +1180,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "community": 0,
+      "community": 2,
       "norm_label": "huacas de moche \u2013 museo de sitio huaca de la luna"
     },
     {
@@ -1190,7 +1190,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_informacion_general",
-      "community": 0,
+      "community": 2,
       "norm_label": "informacion general"
     },
     {
@@ -1200,7 +1200,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_precios",
-      "community": 0,
+      "community": 2,
       "norm_label": "precios"
     },
     {
@@ -1210,7 +1210,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_accesibilidad",
-      "community": 0,
+      "community": 2,
       "norm_label": "accesibilidad"
     },
     {
@@ -1220,7 +1220,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
-      "community": 0,
+      "community": 2,
       "norm_label": "salas"
     },
     {
@@ -1230,7 +1230,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_huacas_de_moche_museo_de_sitio_huaca_de_la_luna_notas",
-      "community": 0,
+      "community": 2,
       "norm_label": "notas"
     },
     {
@@ -1240,7 +1240,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas",
-      "community": 0,
+      "community": 2,
       "norm_label": "salas.md"
     },
     {
@@ -1250,7 +1250,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_huacas_de_moche_museo_de_sitio_huaca_de_la_luna",
-      "community": 0,
+      "community": 2,
       "norm_label": "salas - huacas de moche \u2013 museo de sitio huaca de la luna"
     },
     {
@@ -1260,7 +1260,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "huacas_de_moche_museo_de_sitio_huaca_de_la_luna_salas_salas_areas",
-      "community": 0,
+      "community": 2,
       "norm_label": "salas / areas"
     },
     {
@@ -1292,6 +1292,36 @@
       "id": "lambayeque_00_lambayeque_listado",
       "community": 1,
       "norm_label": "listado"
+    },
+    {
+      "label": "Actividad \u2014 Visita nocturna accesible.md",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible",
+      "community": 46,
+      "norm_label": "actividad \u2014 visita nocturna accesible.md"
+    },
+    {
+      "label": "Visita nocturna accesible",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_visita_nocturna_accesible",
+      "community": 46,
+      "norm_label": "visita nocturna accesible"
+    },
+    {
+      "label": "Detalles",
+      "file_type": "document",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_detalles",
+      "community": 46,
+      "norm_label": "detalles"
     },
     {
       "label": "Sala Descubrimiento.md",
@@ -1820,7 +1850,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_barranca_00_lima_barranca",
-      "community": 2,
+      "community": 3,
       "norm_label": "00 - lima barranca.md"
     },
     {
@@ -1830,7 +1860,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "lima_barranca_00_lima_barranca_lima_barranca",
-      "community": 2,
+      "community": 3,
       "norm_label": "\ud83d\udccd lima barranca"
     },
     {
@@ -1840,7 +1870,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "lima_barranca_00_lima_barranca_listado",
-      "community": 2,
+      "community": 3,
       "norm_label": "listado"
     },
     {
@@ -2674,6 +2704,96 @@
       "norm_label": "horarios por sala"
     },
     {
+      "label": "Actividad \u2014 Exposicion temporal Wari.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari",
+      "community": 43,
+      "norm_label": "actividad \u2014 exposicion temporal wari.md"
+    },
+    {
+      "label": "Exposicion temporal Wari",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_exposicion_temporal_wari",
+      "community": 43,
+      "norm_label": "exposicion temporal wari"
+    },
+    {
+      "label": "Detalles",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_detalles",
+      "community": 43,
+      "norm_label": "detalles"
+    },
+    {
+      "label": "Actividad \u2014 Taller de ceramica.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica",
+      "community": 44,
+      "norm_label": "actividad \u2014 taller de ceramica.md"
+    },
+    {
+      "label": "Taller de ceramica",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_taller_de_ceramica",
+      "community": 44,
+      "norm_label": "taller de ceramica"
+    },
+    {
+      "label": "Detalles",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_detalles",
+      "community": 44,
+      "norm_label": "detalles"
+    },
+    {
+      "label": "Actividad \u2014 Visita guiada inclusiva.md",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva",
+      "community": 45,
+      "norm_label": "actividad \u2014 visita guiada inclusiva.md"
+    },
+    {
+      "label": "Visita guiada inclusiva",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_visita_guiada_inclusiva",
+      "community": 45,
+      "norm_label": "visita guiada inclusiva"
+    },
+    {
+      "label": "Detalles",
+      "file_type": "document",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
+      "source_location": "L18",
+      "_origin": "ast",
+      "id": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_detalles",
+      "community": 45,
+      "norm_label": "detalles"
+    },
+    {
       "label": "Museo de Sitio Pachacamac.md",
       "file_type": "document",
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
@@ -3140,7 +3260,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "wiki_peru",
-      "community": 2,
+      "community": 7,
       "norm_label": "peru.md"
     },
     {
@@ -3150,7 +3270,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "wiki_peru_peru",
-      "community": 2,
+      "community": 7,
       "norm_label": "peru"
     },
     {
@@ -3160,7 +3280,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "wiki_peru_regiones",
-      "community": 2,
+      "community": 7,
       "norm_label": "regiones"
     },
     {
@@ -3170,7 +3290,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "wiki_peru_total",
-      "community": 2,
+      "community": 7,
       "norm_label": "total"
     },
     {
@@ -3279,9 +3399,9 @@
       "source_file": "pipeline.py",
       "source_location": "L157",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_procesar_actividades",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_actividades"
     },
     {
       "relation": "contains",
@@ -3289,9 +3409,9 @@
       "source_file": "pipeline.py",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_procesar_museos",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_museos"
     },
     {
       "relation": "contains",
@@ -3299,9 +3419,9 @@
       "source_file": "pipeline.py",
       "source_location": "L114",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_procesar_salas",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_salas"
     },
     {
       "relation": "contains",
@@ -3309,9 +3429,9 @@
       "source_file": "pipeline.py",
       "source_location": "L10",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline",
-      "target": "pipeline_safe",
-      "confidence_score": 1.0
+      "target": "pipeline_safe"
     },
     {
       "relation": "calls",
@@ -3320,9 +3440,9 @@
       "source_file": "pipeline.py",
       "source_location": "L161",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_procesar_actividades",
-      "target": "pipeline_safe",
-      "confidence_score": 1.0
+      "target": "pipeline_safe"
     },
     {
       "relation": "calls",
@@ -3331,9 +3451,9 @@
       "source_file": "pipeline.py",
       "source_location": "L19",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_procesar_museos",
-      "target": "pipeline_safe",
-      "confidence_score": 1.0
+      "target": "pipeline_safe"
     },
     {
       "relation": "calls",
@@ -3342,9 +3462,9 @@
       "source_file": "pipeline.py",
       "source_location": "L118",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_procesar_salas",
-      "target": "pipeline_safe",
-      "confidence_score": 1.0
+      "target": "pipeline_safe"
     },
     {
       "relation": "calls",
@@ -3353,9 +3473,9 @@
       "source_file": "pipeline.py",
       "source_location": "L222",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler_on_created",
-      "target": "pipeline_procesar_museos",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_museos"
     },
     {
       "relation": "calls",
@@ -3364,9 +3484,9 @@
       "source_file": "pipeline.py",
       "source_location": "L220",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler_on_created",
-      "target": "pipeline_procesar_salas",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_salas"
     },
     {
       "relation": "calls",
@@ -3375,9 +3495,9 @@
       "source_file": "pipeline.py",
       "source_location": "L221",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler_on_created",
-      "target": "pipeline_procesar_actividades",
-      "confidence_score": 1.0
+      "target": "pipeline_procesar_actividades"
     },
     {
       "relation": "calls",
@@ -3386,9 +3506,9 @@
       "source_file": "pipeline.py",
       "source_location": "L223",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "pipeline_inboxhandler_on_created",
-      "target": "pipeline_actualizar_grafo",
-      "confidence_score": 1.0
+      "target": "pipeline_actualizar_grafo"
     },
     {
       "relation": "inherits",
@@ -3416,9 +3536,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L23",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_colecciones",
-      "confidence_score": 1.0
+      "target": "claude_colecciones"
     },
     {
       "relation": "contains",
@@ -3446,9 +3566,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L35",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_frontmatter_por_tipo",
-      "confidence_score": 1.0
+      "target": "claude_frontmatter_por_tipo"
     },
     {
       "relation": "contains",
@@ -3456,9 +3576,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L5",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_graphify_memoria_central",
-      "confidence_score": 1.0
+      "target": "claude_graphify_memoria_central"
     },
     {
       "relation": "contains",
@@ -3466,9 +3586,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_modelo_de_grafo_6_niveles",
-      "confidence_score": 1.0
+      "target": "claude_modelo_de_grafo_6_niveles"
     },
     {
       "relation": "contains",
@@ -3476,9 +3596,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L28",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude",
-      "target": "claude_relaciones_clave_que_debes_analizar",
-      "confidence_score": 1.0
+      "target": "claude_relaciones_clave_que_debes_analizar"
     },
     {
       "relation": "contains",
@@ -3486,9 +3606,9 @@
       "source_file": "CLAUDE.md",
       "source_location": "L9",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "claude_graphify_memoria_central",
-      "target": "claude_regla_principal",
-      "confidence_score": 1.0
+      "target": "claude_regla_principal"
     },
     {
       "relation": "contains",
@@ -4583,12 +4703,32 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible",
+      "target": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_visita_nocturna_accesible",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_visita_nocturna_accesible",
+      "target": "museo_tumbas_reales_de_sipan_actividad_visita_nocturna_accesible_detalles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_sala_descubrimiento",
-      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento"
     },
     {
       "relation": "contains",
@@ -4596,9 +4736,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
-      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_actividades_en_esta_sala",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_actividades_en_esta_sala"
     },
     {
       "relation": "contains",
@@ -4606,9 +4746,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Descubrimiento.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_sala_descubrimiento_sala_descubrimiento",
-      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_informacion",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_sala_descubrimiento_informacion"
     },
     {
       "relation": "contains",
@@ -4616,9 +4756,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_sala_principal",
-      "target": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal"
     },
     {
       "relation": "contains",
@@ -4626,9 +4766,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
-      "target": "museo_tumbas_reales_de_sipan_sala_principal_actividades_en_esta_sala",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_sala_principal_actividades_en_esta_sala"
     },
     {
       "relation": "contains",
@@ -4636,9 +4776,9 @@
       "source_file": "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Sala Principal.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_tumbas_reales_de_sipan_sala_principal_sala_principal",
-      "target": "museo_tumbas_reales_de_sipan_sala_principal_informacion",
-      "confidence_score": 1.0
+      "target": "museo_tumbas_reales_de_sipan_sala_principal_informacion"
     },
     {
       "relation": "contains",
@@ -5863,6 +6003,66 @@
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari",
+      "target": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_exposicion_temporal_wari",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_exposicion_temporal_wari",
+      "target": "museo_de_sitio_pachacamac_actividad_exposicion_temporal_wari_detalles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica",
+      "target": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_taller_de_ceramica",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_taller_de_ceramica",
+      "target": "museo_de_sitio_pachacamac_actividad_taller_de_ceramica_detalles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
+      "source_location": "L16",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva",
+      "target": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_visita_guiada_inclusiva",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_visita_guiada_inclusiva",
+      "target": "museo_de_sitio_pachacamac_actividad_visita_guiada_inclusiva_detalles",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Museo de Sitio Pachacamac.md",
       "source_location": "L14",
       "weight": 1.0,
@@ -5936,9 +6136,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_ichma",
-      "target": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma"
     },
     {
       "relation": "contains",
@@ -5946,9 +6146,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
-      "target": "museo_de_sitio_pachacamac_sala_ichma_actividades_en_esta_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_ichma_actividades_en_esta_sala"
     },
     {
       "relation": "contains",
@@ -5956,9 +6156,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Ichma.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_ichma_sala_ichma",
-      "target": "museo_de_sitio_pachacamac_sala_ichma_informacion",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_ichma_informacion"
     },
     {
       "relation": "contains",
@@ -5966,9 +6166,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_inca",
-      "target": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_inca_sala_inca"
     },
     {
       "relation": "contains",
@@ -5976,9 +6176,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
-      "target": "museo_de_sitio_pachacamac_sala_inca_actividades_en_esta_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_inca_actividades_en_esta_sala"
     },
     {
       "relation": "contains",
@@ -5986,9 +6186,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Inca.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_inca_sala_inca",
-      "target": "museo_de_sitio_pachacamac_sala_inca_informacion",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_inca_informacion"
     },
     {
       "relation": "contains",
@@ -5996,9 +6196,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
       "source_location": "L13",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_wari",
-      "target": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_wari_sala_wari"
     },
     {
       "relation": "contains",
@@ -6006,9 +6206,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
       "source_location": "L24",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
-      "target": "museo_de_sitio_pachacamac_sala_wari_actividades_en_esta_sala",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_wari_actividades_en_esta_sala"
     },
     {
       "relation": "contains",
@@ -6016,9 +6216,9 @@
       "source_file": "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md",
       "source_location": "L15",
       "weight": 1.0,
+      "confidence_score": 1.0,
       "source": "museo_de_sitio_pachacamac_sala_wari_sala_wari",
-      "target": "museo_de_sitio_pachacamac_sala_wari_informacion",
-      "confidence_score": 1.0
+      "target": "museo_de_sitio_pachacamac_sala_wari_informacion"
     },
     {
       "relation": "contains",
@@ -6282,5 +6482,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "63a77f161042c1737261d9e3e0009ecf35b74693"
+  "built_at_commit": "2328c604c2b21f2fe6e565c0e089c455423a2e02"
 }

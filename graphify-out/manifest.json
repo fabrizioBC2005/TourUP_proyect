@@ -25,8 +25,8 @@
     "semantic_hash": ""
   },
   ".obsidian/workspace.json": {
-    "mtime": 1781591230.8849666,
-    "ast_hash": "e16aed0394549a44f3068a2125946238",
+    "mtime": 1781591274.8772368,
+    "ast_hash": "b4efdda8dc1b3955dc5dbf24d2e97ab3",
     "semantic_hash": ""
   },
   "pipeline.py": {
@@ -322,6 +322,26 @@
   "wiki/Lima/Museo de Sitio Pachacamac/Sala Wari.md": {
     "mtime": 1781591230.0139236,
     "ast_hash": "1420464b75c4a283aab11f1f3d257006",
+    "semantic_hash": ""
+  },
+  "wiki/Lambayeque/Museo Tumbas Reales de Sipan/Actividad \u2014 Visita nocturna accesible.md": {
+    "mtime": 1781591274.7171712,
+    "ast_hash": "bb43dd133b183afb1aa3b70a0ebccef7",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Exposicion temporal Wari.md": {
+    "mtime": 1781591274.7156608,
+    "ast_hash": "3279888aeb075509b0c357970676d629",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Taller de ceramica.md": {
+    "mtime": 1781591274.7119675,
+    "ast_hash": "6460ee62c5c4bdba58c927660c060305",
+    "semantic_hash": ""
+  },
+  "wiki/Lima/Museo de Sitio Pachacamac/Actividad \u2014 Visita guiada inclusiva.md": {
+    "mtime": 1781591274.7119675,
+    "ast_hash": "fb7a2e19dde9eabbc70d98d7f84a397b",
     "semantic_hash": ""
   }
 }
